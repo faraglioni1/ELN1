@@ -1,103 +1,19 @@
 {
     "data": [
  {
-   "Projekt":"Roflam 6",
-   "Nr projektu":"8/KR/2017"
- },
- {
-   "Projekt":"G1000",
-   "Nr projektu":"9/KR/2017"
- },
- {
-   "Projekt":"Poliole na pentaerycie",
-   "Nr projektu":"11/KR/2017"
- },
- {
-   "Projekt":"Shrieve toll manufacturing",
-   "Nr projektu":"12/KR/2017"
- },
- {
-   "Projekt":"Capped PAG",
-   "Nr projektu":"13/KR/2017"
- },
- {
-   "Projekt":"R&D Dodatki przeciwpienne do lubrykant�w",
-   "Nr projektu":"14/KR/2017"
- },
- {
-   "Projekt":"R&D Oleje do pas�w przeno�nikowych",
-   "Nr projektu":"15/KR/2017"
- },
- {
-   "Projekt":"Lubrykant z efektem tiksotropowym",
-   "Nr projektu":"16/KR/2017"
- },
- {
-   "Projekt":"Rokester 2700 - opracowanie",
-   "Nr projektu":"17/KR/2017"
- },
- {
-   "Projekt":"Rokester 2700 - implementacja",
-   "Nr projektu":"18/KR/2017"
- },
- {
-   "Projekt":"R2610 - opracowanie",
-   "Nr projektu":"19/KR/2017"
- },
- {
-   "Projekt":"Poliester do OCF LOH-180",
-   "Nr projektu":"20/KR/2017"
- },
- {
-   "Projekt":"Uniepalniona piana visco CMVE na MDI",
-   "Nr projektu":"21/KR/2017"
- },
- {
-   "Projekt":"Poliol do pian visco MDI/TDI",
-   "Nr projektu":"22/KR/2017"
- },
- {
-   "Projekt":"Poliol do pian visco TDI",
-   "Nr projektu":"23/KR/2017"
- },
- {
-   "Projekt":"Rokester 1952 - opracowanie",
-   "Nr projektu":"26/KR/2017"
- },
- {
-   "Projekt":"Dodatki do pian poliestrowych (VLCI)",
-   "Nr projektu":"27/KR/2017"
- },
- {
-   "Projekt":"Rokester 1930",
-   "Nr projektu":"28/KR/2017"
- },
- {
-   "Projekt":"Poliester o ni�szej reaktywno�ci i lepko�ci",
-   "Nr projektu":"29/KR/2017"
- },
- {
-   "Projekt":"Alifatyczne poliole poliestrowe",
-   "Nr projektu":"30/KR/2017"
- },
- {
-   "Projekt":"Specjalistyczny poliol poliestrowy",
-   "Nr projektu":"31/KR/2017"
- },
- {
    "Projekt":"Specjalistyczny polieter do CASE",
    "Nr projektu":"32/KR/2017"
  },
  {
-   "Projekt":"Poliester do blok�w",
+   "Projekt":"Poliester do bloków",
    "Nr projektu":"35/KR/2017"
  },
  {
-   "Projekt":"Poliestry do natrysk�w na PET",
+   "Projekt":"Poliestry do natrysków na PET",
    "Nr projektu":"36/KR/2017"
  },
  {
-   "Projekt":"Poliestry poprawiaj�ce palno��",
+   "Projekt":"Poliestry poprawiające palność",
    "Nr projektu":"37/KR/2017"
  },
  {
@@ -181,11 +97,11 @@
    "Nr projektu":"60/KR/2017"
  },
  {
-   "Projekt":"Poliester o wysokiej odporno�ci ogniowej LOH 250",
+   "Projekt":"Poliester o wysokiej odporności ogniowej LOH 250",
    "Nr projektu":"61/KR/2017"
  },
  {
-   "Projekt":"Poliester o wysokiej odporno�ci ogniowej LOH 180",
+   "Projekt":"Poliester o wysokiej odporności ogniowej LOH 180",
    "Nr projektu":"62/KR/2017"
  },
  {
@@ -229,7 +145,7 @@
    "Nr projektu":"73/KR/2017"
  },
  {
-   "Projekt":"OTDA lepko�� 15000",
+   "Projekt":"OTDA lepkość 15000",
    "Nr projektu":"75/KR/2017"
  },
  {
@@ -245,23 +161,23 @@
    "Nr projektu":"79/KR/2017"
  },
  {
-   "Projekt":"Oleje do przek�adni przemys�owych",
+   "Projekt":"Oleje do przekładni przemysłowych",
    "Nr projektu":"80/KR/2017"
  },
  {
-   "Projekt":"Oleje do transformator�w - poliestry",
+   "Projekt":"Oleje do transformatorów - poliestry",
    "Nr projektu":"82/KR/2017"
  },
  {
-   "Projekt":"Br bezwodniki / kwasy do syntezy poliestr�w",
+   "Projekt":"Br bezwodniki / kwasy do syntezy poliestrów",
    "Nr projektu":"83/KR/2017"
  },
  {
-   "Projekt":"Br diole do syntezy poliestr�w",
+   "Projekt":"Br diole do syntezy poliestrów",
    "Nr projektu":"84/KR/2017"
  },
  {
-   "Projekt":"Br diole do syntezy polieter�w",
+   "Projekt":"Br diole do syntezy polieterów",
    "Nr projektu":"85/KR/2017"
  },
  {
@@ -277,7 +193,7 @@
    "Nr projektu":"89/KR/2017"
  },
  {
-   "Projekt":"�rodek sieciuj�cy do pian typu HR",
+   "Projekt":"Środek sieciujący do pian typu HR",
    "Nr projektu":"90/KR/2017"
  },
  {
@@ -301,11 +217,11 @@
    "Nr projektu":"97/KR/2017"
  },
  {
-   "Projekt":"Roflam B7L � uniepalniacz o obni�onej zawarto�ci TPP",
+   "Projekt":"Roflam B7L – uniepalniacz o obniżonej zawartości TPP",
    "Nr projektu":"1/KF/2018"
  },
  {
-   "Projekt":"Roflex T70L � plastyfikator o obni�onej zawarto�ci TPP",
+   "Projekt":"Roflex T70L – plastyfikator o obniżonej zawartości TPP",
    "Nr projektu":"2/KF/2018"
  },
  {
@@ -317,7 +233,7 @@
    "Nr projektu":"2/KR/2018"
  },
  {
-   "Projekt":"�rodek do dyspergowania melaminy (Dabco PE40)",
+   "Projekt":"Środek do dyspergowania melaminy (Dabco PE40)",
    "Nr projektu":"3/KR/2018"
  },
  {
@@ -329,19 +245,19 @@
    "Nr projektu":"5/KR/2018"
  },
  {
-   "Projekt":"visco MDI absorbuj�ce energi�",
+   "Projekt":"visco MDI absorbujące energię",
    "Nr projektu":"6/KR/2018"
  },
  {
-   "Projekt":"Rostabil TDP �phenol free�",
+   "Projekt":"Rostabil TDP „phenol free”",
    "Nr projektu":"8/KF/2018"
  },
  {
-   "Projekt":"Roflex CDP � fosforan difenylo-krezylowy",
+   "Projekt":"Roflex CDP – fosforan difenylo-krezylowy",
    "Nr projektu":"10/KF/2018"
  },
  {
-   "Projekt":"Roflam DPK � fosforan difenylo-krezylowy",
+   "Projekt":"Roflam DPK – fosforan difenylo-krezylowy",
    "Nr projektu":"11/KF/2018"
  },
  {
@@ -349,7 +265,7 @@
    "Nr projektu":"15/KF/2018"
  },
  {
-   "Projekt":"Nowy Dyspergator do dyspersji wosk�w",
+   "Projekt":"Nowy Dyspergator do dyspersji wosków",
    "Nr projektu":"16/KF/2018"
  },
  {
@@ -361,11 +277,11 @@
    "Nr projektu":"18/KF/2018"
  },
  {
-   "Projekt":"Opracowanie superplastyfikatora o zwi�kszonej o 20% sile up�ynniania",
+   "Projekt":"Opracowanie superplastyfikatora o zwiększonej o 20% sile upłynniania",
    "Nr projektu":"19/KF/2018"
  },
  {
-   "Projekt":"Demonstrator (Linie pilota�owe)",
+   "Projekt":"Demonstrator (Linie pilotażowe)",
    "Nr projektu":"21/KF/2018"
  },
  {
@@ -373,7 +289,7 @@
    "Nr projektu":"23/KF/2018"
  },
  {
-   "Projekt":"Rokolub TXP - p�yn klasy HFDR zgodny z ISO VG 46, oparty na ksylenolu",
+   "Projekt":"Rokolub TXP - płyn klasy HFDR zgodny z ISO VG 46, oparty na ksylenolu",
    "Nr projektu":"25/KF/2018"
  },
  {
@@ -401,7 +317,7 @@
    "Nr projektu":"1/Exol/2018"
  },
  {
-   "Projekt":"Tr�jtorowa optymalizacja ROKAminy K30",
+   "Projekt":"Trójtorowa optymalizacja ROKAminy K30",
    "Nr projektu":"2/Exol/2018"
  },
  {
@@ -421,7 +337,7 @@
    "Nr projektu":"6/Exol/2018"
  },
  {
-   "Projekt":"Niskopienny surfaktantu (wysokoetoksylowany alkoholu o kr�tkim �a�cuchu)",
+   "Projekt":"Niskopienny surfaktantu (wysokoetoksylowany alkoholu o krótkim łańcuchu)",
    "Nr projektu":"7/Exol/2018"
  },
  {
@@ -453,7 +369,7 @@
    "Nr projektu":"33/KF/2018"
  },
  {
-   "Projekt":"Roflex TIP - mieszanina Roflex T70  i fosoran�w fenylo-izopropylofenolowych",
+   "Projekt":"Roflex TIP - mieszanina Roflex T70  i fosoranów fenylo-izopropylofenolowych",
    "Nr projektu":"34/KF/2018"
  },
  {
@@ -461,7 +377,7 @@
    "Nr projektu":"8/KR/2018"
  },
  {
-   "Projekt":"2436 poliol poliestrowy do blok�w PIR",
+   "Projekt":"2436 poliol poliestrowy do bloków PIR",
    "Nr projektu":"11/KR/2018"
  },
  {
@@ -521,11 +437,11 @@
    "Nr projektu":"29/Exol/2018"
  },
  {
-   "Projekt":"EXOcon GP35 - modyfikacja lepko�ci ",
+   "Projekt":"EXOcon GP35 - modyfikacja lepkości ",
    "Nr projektu":"31/Exol/2018"
  },
  {
-   "Projekt":"Surfaktanty w formie sta�ej  - ABSNa S80",
+   "Projekt":"Surfaktanty w formie stałej  - ABSNa S80",
    "Nr projektu":"32/Exol/2018"
  },
  {
@@ -533,7 +449,7 @@
    "Nr projektu":"33/Exol/2018"
  },
  {
-   "Projekt":"Exoclean OC1 - czyszczanie ruroci�g�w z ropy",
+   "Projekt":"Exoclean OC1 - czyszczanie rurociągów z ropy",
    "Nr projektu":"34/Exol/2018"
  },
  {
@@ -561,7 +477,7 @@
    "Nr projektu":"43/Exol/2018"
  },
  {
-   "Projekt":"Zwil�acze py�u w�glowego",
+   "Projekt":"Zwilżacze pyłu węglowego",
    "Nr projektu":"44/Exol/2018"
  },
  {
@@ -573,11 +489,11 @@
    "Nr projektu":"47/Exol/2018"
  },
  {
-   "Projekt":"Poliestry do hotmelt�w",
+   "Projekt":"Poliestry do hotmeltów",
    "Nr projektu":"14/KR/2018"
  },
  {
-   "Projekt":"Moby Dick Poliole DMC wyka�czane tlenkiem etylenu M=2000-6000",
+   "Projekt":"Moby Dick Poliole DMC wykańczane tlenkiem etylenu M=2000-6000",
    "Nr projektu":"15/KR/2018"
  },
  {
@@ -601,7 +517,7 @@
    "Nr projektu":"19/KR/2018"
  },
  {
-   "Projekt":"Rotclean_Rotquick_�rodek do usuwania zanieczyszcze� olejowych",
+   "Projekt":"Rotclean_Rotquick_Środek do usuwania zanieczyszczeń olejowych",
    "Nr projektu":"51/Exol/2018"
  },
  {
@@ -617,7 +533,7 @@
    "Nr projektu":"4/Prodex/2018"
  },
  {
-   "Projekt":"W�dzarnie PIR4535E",
+   "Projekt":"Wędzarnie PIR4535E",
    "Nr projektu":"5/Prodex/2018"
  },
  {
@@ -625,7 +541,7 @@
    "Nr projektu":"7/Prodex/2018"
  },
  {
-   "Projekt":"Lod�wki, producja ci�g�a",
+   "Projekt":"Lodówki, producja ciągła",
    "Nr projektu":"8/Prodex/2018"
  },
  {
@@ -689,7 +605,7 @@
    "Nr projektu":"58/Exol/2018"
  },
  {
-   "Projekt":"�rodka odt�uczaj�cy powierzchnie metalowe",
+   "Projekt":"Środka odtłuczający powierzchnie metalowe",
    "Nr projektu":"59/Exol/2018"
  },
  {
@@ -725,11 +641,11 @@
    "Nr projektu":"41/KF/2018"
  },
  {
-   "Projekt":"Rokolub FR I-32 - niepalne p�yny hydrauliczne typu HFDR",
+   "Projekt":"Rokolub FR I-32 - niepalne płyny hydrauliczne typu HFDR",
    "Nr projektu":"43/KF/2018"
  },
  {
-   "Projekt":"Rokolub FR I-46 - niepalne p�yny hydrauliczne typu HFDR",
+   "Projekt":"Rokolub FR I-46 - niepalne płyny hydrauliczne typu HFDR",
    "Nr projektu":"44/KF/2018"
  },
  {
@@ -737,7 +653,7 @@
    "Nr projektu":"63/Exol/2018"
  },
  {
-   "Projekt":"Rokolub FR T-46 - niepalne p�yny hydrauliczne typu HFDR",
+   "Projekt":"Rokolub FR T-46 - niepalne płyny hydrauliczne typu HFDR",
    "Nr projektu":"46/KF/2018"
  },
  {
@@ -765,7 +681,7 @@
    "Nr projektu":"25/KR/2018"
  },
  {
-   "Projekt":"Pianka bia�a typu white-tech",
+   "Projekt":"Pianka biała typu white-tech",
    "Nr projektu":"26/KR/2018"
  },
  {
@@ -773,11 +689,11 @@
    "Nr projektu":"64/Exol/2018"
  },
  {
-   "Projekt":"Poliol o niskiej hydroksylowej bez dodatk�w",
+   "Projekt":"Poliol o niskiej hydroksylowej bez dodatków",
    "Nr projektu":"27/KR/2018"
  },
  {
-   "Projekt":"Poliol do blok�w PCC Prodex",
+   "Projekt":"Poliol do bloków PCC Prodex",
    "Nr projektu":"28/KR/2018"
  },
  {
@@ -813,7 +729,7 @@
    "Nr projektu":"75/Exol/2018"
  },
  {
-   "Projekt":"Popi�l - Hydrofob.",
+   "Projekt":"Popiól - Hydrofob.",
    "Nr projektu":"51/KF/2018"
  },
  {
@@ -821,7 +737,7 @@
    "Nr projektu":"31/KR/2018"
  },
  {
-   "Projekt":"Odpowiednik produktuNaxan Plus ABL (p�yn)",
+   "Projekt":"Odpowiednik produktuNaxan Plus ABL (płyn)",
    "Nr projektu":"52/KF/2018"
  },
  {
@@ -837,7 +753,7 @@
    "Nr projektu":"76/Exol/2018"
  },
  {
-   "Projekt":"Poliole o masie 500-1500 MW o zwi�kszonej zawarto�ci EO",
+   "Projekt":"Poliole o masie 500-1500 MW o zwiększonej zawartości EO",
    "Nr projektu":"34/KR/2018"
  },
  {
@@ -869,7 +785,7 @@
    "Nr projektu":"80/Exol/2018"
  },
  {
-   "Projekt":"Produkcja polioli niskocz�steczkowych DMC metod� CAOS lub ci�g��",
+   "Projekt":"Produkcja polioli niskocząsteczkowych DMC metodą CAOS lub ciągłą",
    "Nr projektu":"39/KR/2018"
  },
  {
@@ -933,11 +849,11 @@
    "Nr projektu":"101/Exol/2018"
  },
  {
-   "Projekt":"�rodki perlizuj�ce",
+   "Projekt":"Środki perlizujące",
    "Nr projektu":"102/Exol/2018"
  },
  {
-   "Projekt":"Separacja sadzy w oleju i dyspergowanie frakcji ci�kich",
+   "Projekt":"Separacja sadzy w oleju i dyspergowanie frakcji ciężkich",
    "Nr projektu":"103/Exol/2018"
  },
  {
@@ -945,7 +861,7 @@
    "Nr projektu":"53/KF/2018"
  },
  {
-   "Projekt":"Dob�r �rodka niskopiennego",
+   "Projekt":"Dobór środka niskopiennego",
    "Nr projektu":"104/Exol/2018"
  },
  {
@@ -989,7 +905,7 @@
    "Nr projektu":"2/KF/2019"
  },
  {
-   "Projekt":"Wymiana surowc�w w Rofluid H,M,P,T",
+   "Projekt":"Wymiana surowców w Rofluid H,M,P,T",
    "Nr projektu":"3/KF/2019"
  },
  {
@@ -997,11 +913,11 @@
    "Nr projektu":"4/KF/2019"
  },
  {
-   "Projekt":"Roflex 35V - plastyfikator o niskiej lepko�ci i niskiej lotno�ci",
+   "Projekt":"Roflex 35V - plastyfikator o niskiej lepkości i niskiej lotności",
    "Nr projektu":"5/KF/2019"
  },
  {
-   "Projekt":"Optymalizacja proces�w technologicznych NSF",
+   "Projekt":"Optymalizacja procesów technologicznych NSF",
    "Nr projektu":"6/KF/2019"
  },
  {
@@ -1081,11 +997,11 @@
    "Nr projektu":"37/Exol/2019"
  },
  {
-   "Projekt":"Odsalanie - produkty o zmniejszonej zawarto�ci chlorku sodu",
+   "Projekt":"Odsalanie - produkty o zmniejszonej zawartości chlorku sodu",
    "Nr projektu":"38/Exol/2019"
  },
  {
-   "Projekt":"Odsalanie sarkozynian�w - ROKAtend LSO",
+   "Projekt":"Odsalanie sarkozynianów - ROKAtend LSO",
    "Nr projektu":"39/Exol/2019"
  },
  {
@@ -1109,7 +1025,7 @@
    "Nr projektu":"1/EXOL+KR/2019"
  },
  {
-   "Projekt":"�rodek do usuwania azotku boru z ta�m niklowo-wolframowych",
+   "Projekt":"Środek do usuwania azotku boru z taśm niklowo-wolframowych",
    "Nr projektu":"45/Exol/2019"
  },
  {
@@ -1149,8 +1065,12 @@
    "Nr projektu":"6/KR/2019"
  },
  {
-   "Projekt":"EXOcon GPU56 Piany p�stabilne dla KNAUF",
+   "Projekt":"EXOcon GPU56 Piany półstabilne dla KNAUF",
    "Nr projektu":"54/Exol/2019"
+ },
+ {
+   "Projekt":"ROKAmer PP2000, ROKAmer PP4000",
+   "Nr projektu":"55/Exol/2019"
  },
  {
    "Projekt":"ROKAcet K10",
@@ -1181,6 +1101,10 @@
    "Nr projektu":"66/Exol/2019"
  },
  {
+   "Projekt":"EXOantifoam PPE1  - Zamiennik odpieniacza z firmy TSC",
+   "Nr projektu":"67/Exol/2019"
+ },
+ {
    "Projekt":"ROKAnol NL6W/80",
    "Nr projektu":"68/Exol/2019"
  },
@@ -1197,7 +1121,7 @@
    "Nr projektu":"73/Exol/2019"
  },
  {
-   "Projekt":"Pure_projekt z firm� Ciech i Insignes Labs",
+   "Projekt":"Pure_projekt z firmą Ciech i Insignes Labs",
    "Nr projektu":"74/Exol/2019"
  },
  {
@@ -1241,7 +1165,7 @@
    "Nr projektu":"10/KF/2019"
  },
  {
-   "Projekt":"�u�el/pop�l/gips - gospodarka odpadami.",
+   "Projekt":"Żużel/popól/gips - gospodarka odpadami.",
    "Nr projektu":"12/KF/2019"
  },
  {
@@ -1249,7 +1173,7 @@
    "Nr projektu":"89/Exol/2019"
  },
  {
-   "Projekt":"Op�niacze wi�zania betonu (EXOtard)",
+   "Projekt":"Opóźniacze wiązania betonu (EXOtard)",
    "Nr projektu":"90/Exol/2019"
  },
  {
@@ -1265,6 +1189,10 @@
    "Nr projektu":"93/Exol/2019"
  },
  {
+   "Projekt":"Alternatywy dla D232P",
+   "Nr projektu":"94/Exol/2019"
+ },
+ {
    "Projekt":"ROKAnol NL6  - zmniejszenie zapachu",
    "Nr projektu":"95/Exol/2019"
  },
@@ -1277,11 +1205,7 @@
    "Nr projektu":"98/Exol/2019"
  },
  {
-   "Projekt":"ROKAmer 2000R",
-   "Nr projektu":"99/Exol/2019"
- },
- {
-   "Projekt":"Ma� po�lizgowa",
+   "Projekt":"Maź poślizgowa",
    "Nr projektu":"100/Exol/2019"
  },
  {
@@ -1353,7 +1277,7 @@
    "Nr projektu":"115/Exol/2019"
  },
  {
-   "Projekt":"ROSULfan A - poprawa zag�szczania",
+   "Projekt":"ROSULfan A - poprawa zagęszczania",
    "Nr projektu":"116/Exol/2019"
  },
  {
@@ -1381,7 +1305,7 @@
    "Nr projektu":"8/Exol/2020"
  },
  {
-   "Projekt":"�rodek antystatyczny - EXOSTAT 12",
+   "Projekt":"Środek antystatyczny - EXOSTAT 12",
    "Nr projektu":"10/Exol/2020"
  },
  {
@@ -1409,7 +1333,7 @@
    "Nr projektu":"1/EXOL+KR/2020"
  },
  {
-   "Projekt":"Emulsje do cia�a i twarzy ",
+   "Projekt":"Emulsje do ciała i twarzy ",
    "Nr projektu":"13/Exol/2020"
  },
  {
@@ -1417,7 +1341,7 @@
    "Nr projektu":"14/Exol/2020"
  },
  {
-   "Projekt":"Preparaty kosmetyczne dedykowane do w�os�w",
+   "Projekt":"Preparaty kosmetyczne dedykowane do włosów",
    "Nr projektu":"15/Exol/2020"
  },
  {
@@ -1441,11 +1365,11 @@
    "Nr projektu":"22/Exol/2020"
  },
  {
-   "Projekt":"Nowy niskocz�steczkowy emulsyfikator  pentanu w poliolu poliestrowym:  odpowiednik Rokafenol N8P7",
+   "Projekt":"Nowy niskocząsteczkowy emulsyfikator  pentanu w poliolu poliestrowym:  odpowiednik Rokafenol N8P7",
    "Nr projektu":"4/KR/2020"
  },
  {
-   "Projekt":"Nowy wysokocz�steczkowy emulsyfikator/kompatybilizator  pentanu w poliestrze:  Odpowiednik EP4031.01",
+   "Projekt":"Nowy wysokocząsteczkowy emulsyfikator/kompatybilizator  pentanu w poliestrze:  Odpowiednik EP4031.01",
    "Nr projektu":"5/KR/2020"
  },
  {
@@ -1453,7 +1377,7 @@
    "Nr projektu":"23/Exol/2020"
  },
  {
-   "Projekt":"Zamiennik wywo�ywacza z Fuji",
+   "Projekt":"Zamiennik wywoływacza z Fuji",
    "Nr projektu":"24/Exol/2020"
  },
  {
@@ -1499,6 +1423,10 @@
  {
    "Projekt":"Zamiennik Lutensol AO3(= ROKAnol ID3)",
    "Nr projektu":"7/Lubs/2020"
+ },
+ {
+   "Projekt":"C16 - C18 label free low foaming profile emulsifiers ",
+   "Nr projektu":"8/Lubs/2020"
  },
  {
    "Projekt":"Rokopol DE2020 reaktywny diol dla firmy EOC",
@@ -1553,7 +1481,7 @@
    "Nr projektu":"52/Exol/2020"
  },
  {
-   "Projekt":"�rodki pomocnicze dla fountain solution",
+   "Projekt":"Środki pomocnicze dla fountain solution",
    "Nr projektu":"53/Exol/2020"
  },
  {
@@ -1569,7 +1497,7 @@
    "Nr projektu":"56/Exol/2020"
  },
  {
-   "Projekt":"Ba�ki mydlane ",
+   "Projekt":"Bańki mydlane ",
    "Nr projektu":"57/Exol/2020"
  },
  {
@@ -1597,7 +1525,7 @@
    "Nr projektu":"63/Exol/2020"
  },
  {
-   "Projekt":"�rodki do dezynfekcji - seria produkt�w EXOsept",
+   "Projekt":"Środki do dezynfekcji - seria produktów EXOsept",
    "Nr projektu":"64/Exol/2020"
  },
  {
@@ -1617,6 +1545,10 @@
    "Nr projektu":"70/Exol/2020"
  },
  {
+   "Projekt":"EXOfos PB-269",
+   "Nr projektu":"71/Exol/2020"
+ },
+ {
    "Projekt":"Rosulfan A33",
    "Nr projektu":"72/Exol/2020"
  },
@@ -1629,7 +1561,11 @@
    "Nr projektu":"9/Lubs/2020"
  },
  {
-   "Projekt":"Kapsu�ki do prania",
+   "Projekt":"Polikol 300B ",
+   "Nr projektu":"74/Exol/2020"
+ },
+ {
+   "Projekt":"Kapsułki do prania",
    "Nr projektu":"75/Exol/2020"
  },
  {
@@ -1645,7 +1581,7 @@
    "Nr projektu":"78/Exol/2020"
  },
  {
-   "Projekt":"Produkty myj�ce w kostce ",
+   "Projekt":"Produkty myjące w kostce ",
    "Nr projektu":"79/Exol/2020"
  },
  {
@@ -1657,7 +1593,7 @@
    "Nr projektu":"82/Exol/2020"
  },
  {
-   "Projekt":"Pianka o obni�onej palno�ci",
+   "Projekt":"Pianka o obniżonej palności",
    "Nr projektu":"3/Prodex/2020"
  },
  {
@@ -1667,6 +1603,10 @@
  {
    "Projekt":"Rocem NLP",
    "Nr projektu":"5/KF/2020"
+ },
+ {
+   "Projekt":"Rokolub P-B-220 ",
+   "Nr projektu":"10/Lubs/2020"
  },
  {
    "Projekt":"Rokolub P-B-320",
@@ -1681,7 +1621,7 @@
    "Nr projektu":"86/Exol/2020"
  },
  {
-   "Projekt":"EXOfos PB-184, poprawa jako�ci",
+   "Projekt":"EXOfos PB-184, poprawa jakości",
    "Nr projektu":"88/Exol/2020"
  },
  {
@@ -1749,7 +1689,7 @@
    "Nr projektu":"9/KR/2020"
  },
  {
-   "Projekt":"DMC-H a mozliwo�ci wprowadzania CO2- weryfikacja - PolyU Klein",
+   "Projekt":"DMC-H a mozliwości wprowadzania CO2- weryfikacja - PolyU Klein",
    "Nr projektu":"10/KR/2020"
  },
  {
@@ -1773,7 +1713,11 @@
    "Nr projektu":"6/KF/2020"
  },
  {
-   "Projekt":"Dob�r zamiennika dla Hostapal BV",
+   "Projekt":"EXOstat K reklamacja",
+   "Nr projektu":"113/Exol/2020"
+ },
+ {
+   "Projekt":"Dobór zamiennika dla Hostapal BV",
    "Nr projektu":"114/Exol/2020"
  },
  {
@@ -1781,7 +1725,7 @@
    "Nr projektu":"115/Exol/2020"
  },
  {
-   "Projekt":"system elastomerowy do w�y",
+   "Projekt":"system elastomerowy do węży",
    "Nr projektu":"7/Prodex/2020"
  },
  {
@@ -1793,7 +1737,7 @@
    "Nr projektu":"116/Exol/2020"
  },
  {
-   "Projekt":"Dodatek wyd�u�aj�cy czas powrotu w piankach VE",
+   "Projekt":"Dodatek wydłużający czas powrotu w piankach VE",
    "Nr projektu":"13/KR/2020"
  },
  {
@@ -1817,7 +1761,7 @@
    "Nr projektu":"121/Exol/2020"
  },
  {
-   "Projekt":"Roksapian N, N p�atki - wymiana nonylofenoli etoksylowanych",
+   "Projekt":"Roksapian N, N płatki - wymiana nonylofenoli etoksylowanych",
    "Nr projektu":"122/Exol/2020"
  },
  {
@@ -1837,7 +1781,7 @@
    "Nr projektu":"126/Exol/2020"
  },
  {
-   "Projekt":"Badania uzupe�niajce w zakresie dioli LDB 18000D oraz LDB12000D ",
+   "Projekt":"Badania uzupełniajce w zakresie dioli LDB 18000D oraz LDB12000D ",
    "Nr projektu":"16/KR/2020"
  },
  {
@@ -1865,7 +1809,7 @@
    "Nr projektu":"133/Exol/2020"
  },
  {
-   "Projekt":"Aplikacja estr�w fosforowych TSP ",
+   "Projekt":"Aplikacja estrów fosforowych TSP ",
    "Nr projektu":"134/Exol/2020"
  },
  {
@@ -1929,7 +1873,7 @@
    "Nr projektu":"148/Exol/2020"
  },
  {
-   "Projekt":"Pr�ba uniepalnienia ROSULfanu LP",
+   "Projekt":"Próba uniepalnienia ROSULfanu LP",
    "Nr projektu":"150/Exol/2020"
  },
  {
@@ -1953,11 +1897,11 @@
    "Nr projektu":"155/Exol/2020"
  },
  {
-   "Projekt":"Wymiana ROKAfenolu w nat�ustkach",
+   "Projekt":"Wymiana ROKAfenolu w natłustkach",
    "Nr projektu":"156/Exol/2020"
  },
  {
-   "Projekt":"Pakiet emulguj�cy dla oleju silikonowego",
+   "Projekt":"Pakiet emulgujący dla oleju silikonowego",
    "Nr projektu":"157/Exol/2020"
  },
  {
@@ -1993,6 +1937,10 @@
    "Nr projektu":"169/Exol/2020"
  },
  {
+   "Projekt":"MAXLUBE 510 (PCC Chemax) ",
+   "Nr projektu":"17/Lubs/2020"
+ },
+ {
    "Projekt":"Rokolub PO-D-460B ",
    "Nr projektu":"18/Lubs/2020"
  },
@@ -2013,7 +1961,7 @@
    "Nr projektu":"172/Exol/2020"
  },
  {
-   "Projekt":"Produkty do Reckitt Benckiser: niskopienny + ta�szy anionowo-niejonowy surfaktant",
+   "Projekt":"Produkty do Reckitt Benckiser: niskopienny + tańszy anionowo-niejonowy surfaktant",
    "Nr projektu":"174/Exol/2020"
  },
  {
@@ -2033,7 +1981,7 @@
    "Nr projektu":"177/Exol/2020"
  },
  {
-   "Projekt":"Dyspergator do bran�y agro",
+   "Projekt":"Dyspergator do branży agro",
    "Nr projektu":"11/KF/2020"
  },
  {
@@ -2045,7 +1993,7 @@
    "Nr projektu":"180/Exol/2020"
  },
  {
-   "Projekt":"EXOcare TE20 p�atki dla Win Cosmetics",
+   "Projekt":"EXOcare TE20 płatki dla Win Cosmetics",
    "Nr projektu":"181/Exol/2020"
  },
  {
@@ -2057,7 +2005,7 @@
    "Nr projektu":"183/Exol/2020"
  },
  {
-   "Projekt":"Odsprzeda� APG o �a�cuchu C8-C10 pod w�asnym brandem",
+   "Projekt":"Odsprzedaż APG o łańcuchu C8-C10 pod własnym brandem",
    "Nr projektu":"184/Exol/2020"
  },
  {
@@ -2101,7 +2049,7 @@
    "Nr projektu":"13/KF/2020"
  },
  {
-   "Projekt":"Chemfac PB-264 ze mniejsz� zawarto�ci� fosoforu",
+   "Projekt":"Chemfac PB-264 ze mniejszą zawartością fosoforu",
    "Nr projektu":"199/Exol/2020"
  },
  {
@@ -2169,6 +2117,10 @@
    "Nr projektu":"3/KR/2021"
  },
  {
+   "Projekt":"Lafarge - dodatki do cementu",
+   "Nr projektu":"17/Exol/2021"
+ },
+ {
    "Projekt":"Rostabil TTDP \"phenol free\" optymalizacja",
    "Nr projektu":"1/KF/2021"
  },
@@ -2179,6 +2131,10 @@
  {
    "Projekt":"Polikol 400PF dla L'Oreal",
    "Nr projektu":"20/Exol/2021"
+ },
+ {
+   "Projekt":"Polikol 8000",
+   "Nr projektu":"22/Exol/2021"
  },
  {
    "Projekt":"Ester fosforowy dla Panasonic",
@@ -2201,7 +2157,7 @@
    "Nr projektu":"26/Exol/2021"
  },
  {
-   "Projekt":"EXOfos PB-136- poprawa stabilno�ci w niskiej temperaturze",
+   "Projekt":"EXOfos PB-136- poprawa stabilności w niskiej temperaturze",
    "Nr projektu":"28/Exol/2021"
  },
  {
@@ -2217,6 +2173,10 @@
    "Nr projektu":"32/Exol/2021"
  },
  {
+   "Projekt":"Zamiennik Antispumin NPK",
+   "Nr projektu":"33/Exol/2021"
+ },
+ {
    "Projekt":"ROKAnol NL4LO",
    "Nr projektu":"34/Exol/2021"
  },
@@ -2225,7 +2185,7 @@
    "Nr projektu":"35/Exol/2021"
  },
  {
-   "Projekt":"ROKAnol T25 p�atki dla L'Oreal",
+   "Projekt":"ROKAnol T25 płatki dla L'Oreal",
    "Nr projektu":"36/Exol/2021"
  },
  {
@@ -2257,7 +2217,7 @@
    "Nr projektu":"46/Exol/2021"
  },
  {
-   "Projekt":"Badania stabilno�ci DOSS70GP",
+   "Projekt":"Badania stabilności DOSS70GP",
    "Nr projektu":"50/Exol/2021"
  },
  {
@@ -2273,7 +2233,7 @@
    "Nr projektu":"7/KR/2021"
  },
  {
-   "Projekt":"Opracowanie dodatku polieterowego obni�aj�cego zu�ycie stabilizatora silikonowego w pianie OCF",
+   "Projekt":"Opracowanie dodatku polieterowego obniżającego zużycie stabilizatora silikonowego w pianie OCF",
    "Nr projektu":"8/KR/2021"
  },
  {
@@ -2281,12 +2241,16 @@
    "Nr projektu":"9/KR/2021"
  },
  {
-   "Projekt":"EXOfos/Chemfac wdro�enie na homogenizatorze",
+   "Projekt":"EXOfos/Chemfac wdrożenie na homogenizatorze",
    "Nr projektu":"54/Exol/2021"
  },
  {
    "Projekt":" EXOfos PB-267",
    "Nr projektu":"55/Exol/2021"
+ },
+ {
+   "Projekt":"Suszona betaina",
+   "Nr projektu":"56/Exol/2021"
  },
  {
    "Projekt":"ROKAmer 3800",
@@ -2295,6 +2259,10 @@
  {
    "Projekt":"EXOdis PC800 - Zamiennik Dispersogen AN200",
    "Nr projektu":"59/Exol/2021"
+ },
+ {
+   "Projekt":"EXOdet T25A",
+   "Nr projektu":"61/Exol/2021"
  },
  {
    "Projekt":"Zamiennik Lutensol XL89",
@@ -2345,15 +2313,15 @@
    "Nr projektu":"87/Exol/2021"
  },
  {
-   "Projekt":"Katalizatory DMC - analiza katalizator�w rynkowych w procesie polimeryzacji koordynacyjnej ",
+   "Projekt":"Katalizatory DMC - analiza katalizatorów rynkowych w procesie polimeryzacji koordynacyjnej ",
    "Nr projektu":"10/KR/2021"
  },
  {
-   "Projekt":"Niskocz�steczkowy propoksylat gliceryny (3 molowy)",
+   "Projekt":"Niskocząsteczkowy propoksylat gliceryny (3 molowy)",
    "Nr projektu":"11/KR/2021"
  },
  {
-   "Projekt":"Alkoksylowany pentaerytrytol o liczbie hydroksylowej oko�o 440 mgKOH/g",
+   "Projekt":"Alkoksylowany pentaerytrytol o liczbie hydroksylowej około 440 mgKOH/g",
    "Nr projektu":"12/KR/2021"
  },
  {
@@ -2437,7 +2405,11 @@
    "Nr projektu":"135/Exol/2021"
  },
  {
-   "Projekt":"Dodatek kompleksowy do up�ynniania gipsu ",
+   "Projekt":"Zamiennik Syntapon DS",
+   "Nr projektu":"137/Exol/2021"
+ },
+ {
+   "Projekt":"Dodatek kompleksowy do upłynniania gipsu ",
    "Nr projektu":"6/KF/2021"
  },
  {
@@ -2461,7 +2433,7 @@
    "Nr projektu":"3/Prodex/2022"
  },
  {
-   "Projekt":"Ekoprodur BF5040 na nowym czynniku spieniaj�cym HFO",
+   "Projekt":"Ekoprodur BF5040 na nowym czynniku spieniającym HFO",
    "Nr projektu":"5/Prodex/2022"
  },
  {
@@ -2479,6 +2451,10 @@
  {
    "Projekt":"ROKAnol L2L MB dla L'Oreal",
    "Nr projektu":"9/Exol/2022"
+ },
+ {
+   "Projekt":"Rokanol TMP7R modyfikacja pod Alfa Smart Agro",
+   "Nr projektu":"13/Exol/2022"
  },
  {
    "Projekt":"Chemal TDA-6P3",
@@ -2505,19 +2481,23 @@
    "Nr projektu":"13/KR/2022"
  },
  {
+   "Projekt":"Rokolub PO-D-320",
+   "Nr projektu":"6/Lubs/2022"
+ },
+ {
    "Projekt":"Roflex BDP",
    "Nr projektu":"4/KF/2022"
  },
  {
-   "Projekt":"Opracowanie i wdro�enie receptury systemu Ekoprodur S10-HP",
+   "Projekt":"Opracowanie i wdrożenie receptury systemu Ekoprodur S10-HP",
    "Nr projektu":"8/Prodex/2022"
  },
  {
-   "Projekt":"Opracowanie i wdro�enie systemu S11E-MAX",
+   "Projekt":"Opracowanie i wdrożenie systemu S11E-MAX",
    "Nr projektu":"9/Prodex/2022"
  },
  {
-   "Projekt":"ROKAnol IT9S w p�ynie do p�ukania tkanin",
+   "Projekt":"ROKAnol IT9S w płynie do płukania tkanin",
    "Nr projektu":"46/Exol/2022"
  },
  {
@@ -2529,11 +2509,15 @@
    "Nr projektu":"48/Exol/2022"
  },
  {
+   "Projekt":"Rokolub 50-B-460",
+   "Nr projektu":"10/Lubs/2022"
+ },
+ {
    "Projekt":"Polikol 4000 dla Reckitt",
    "Nr projektu":"51/Exol/2022"
  },
  {
-   "Projekt":"Broszura EXOfos series - uzupe�nienie",
+   "Projekt":"Broszura EXOfos series - uzupełnienie",
    "Nr projektu":"52/Exol/2022"
  },
  {
@@ -2545,15 +2529,15 @@
    "Nr projektu":"56/Exol/2022"
  },
  {
-   "Projekt":"Niskopienny �rodek do mycia koszy przemys�owych",
+   "Projekt":"Niskopienny środek do mycia koszy przemysłowych",
    "Nr projektu":"57/Exol/2022"
  },
  {
-   "Projekt":"�rodek do mycia karoserii",
+   "Projekt":"Środek do mycia karoserii",
    "Nr projektu":"58/Exol/2022"
  },
  {
-   "Projekt":"Myj�ce formulacje kosmetyczne w formie Jelly",
+   "Projekt":"Myjące formulacje kosmetyczne w formie Jelly",
    "Nr projektu":"59/Exol/2022"
  },
  {
@@ -2561,7 +2545,7 @@
    "Nr projektu":"61/Exol/2022"
  },
  {
-   "Projekt":"Kwasy humusowe - poprawa stabilno�ci",
+   "Projekt":"Kwasy humusowe - poprawa stabilności",
    "Nr projektu":"62/Exol/2022"
  },
  {
@@ -2575,6 +2559,14 @@
  {
    "Projekt":"Odpowietrzacz do emulsji bitumicznych ",
    "Nr projektu":"70/Exol/2022"
+ },
+ {
+   "Projekt":"EXOfos PB-134",
+   "Nr projektu":"71/Exol/2022"
+ },
+ {
+   "Projekt":"HPEG 4000",
+   "Nr projektu":"72/Exol/2022"
  },
  {
    "Projekt":"Zamiennik Demelan VPC dla SCJ",
@@ -2601,20 +2593,40 @@
    "Nr projektu":"88/Exol/2022"
  },
  {
-   "Projekt":"Formulacje czyszcz�ce I&I - kuchenki i piekarniki w bran�y restauracyjnej.",
+   "Projekt":"Formulacje czyszczące I&I - kuchenki i piekarniki w branży restauracyjnej.",
    "Nr projektu":"90/Exol/2022"
+ },
+ {
+   "Projekt":"Dyspergowanie sadzy",
+   "Nr projektu":"11/Lubs/2022"
  },
  {
    "Projekt":"Enkapsulowane kompozycje zapachowe",
    "Nr projektu":"98/Exol/2022"
  },
  {
-   "Projekt":"�rodki do czyszczenia puszek metalowych",
+   "Projekt":"Środki do czyszczenia puszek metalowych",
    "Nr projektu":"101/Exol/2022"
+ },
+ {
+   "Projekt":"Zamiennik dla demulgatora Demtriss R117 ",
+   "Nr projektu":"110/Exol/2022"
  },
  {
    "Projekt":"Optymalizacja ROKAnoli IT",
    "Nr projektu":"111/Exol/2022"
+ },
+ {
+   "Projekt":"Walliphos TRDP 60",
+   "Nr projektu":"113/Exol/2022"
+ },
+ {
+   "Projekt":"Walliphos EHDP 30",
+   "Nr projektu":"114/Exol/2022"
+ },
+ {
+   "Projekt":"Modyfikacja EXOemulu EM260 i EXOemulu A3 ",
+   "Nr projektu":"123/Exol/2022"
  },
  {
    "Projekt":"Active Play AS H 8025 - Produkt dla firmy PRO PLAST EPP Klej do granulatu SBR",
@@ -2625,7 +2637,7 @@
    "Nr projektu":"5/KR/2023"
  },
  {
-   "Projekt":"Primer do p�yt PIR",
+   "Projekt":"Primer do płyt PIR",
    "Nr projektu":"6/KR/2023"
  },
  {
@@ -2637,7 +2649,7 @@
    "Nr projektu":"11/KR/2023"
  },
  {
-   "Projekt":"Active Play AS H 8013_2 (wersja o ni�szej lepko�ci",
+   "Projekt":"Active Play AS H 8013_2 (wersja o niższej lepkości",
    "Nr projektu":"12/KR/2023"
  },
  {
@@ -2645,15 +2657,23 @@
    "Nr projektu":"15/KR/2023"
  },
  {
+   "Projekt":"EXOdis L/30",
+   "Nr projektu":"28/Exol/2023"
+ },
+ {
+   "Projekt":"ROKAnol G8P",
+   "Nr projektu":"31/Exol/2023"
+ },
+ {
    "Projekt":"Chlorowanie krzemu",
    "Nr projektu":"1/KC/2023"
  },
  {
-   "Projekt":"Potanienie produkt�w Rebond",
+   "Projekt":"Potanienie produktów Rebond",
    "Nr projektu":"16/KR/2023"
  },
  {
-   "Projekt":"Formu�owany poliester do RFL z dwoma uniepalniaczami",
+   "Projekt":"Formułowany poliester do RFL z dwoma uniepalniaczami",
    "Nr projektu":"17/KR/2023"
  },
  {
@@ -2667,6 +2687,10 @@
  {
    "Projekt":"ROKAnol ID7W",
    "Nr projektu":"57/Exol/2023"
+ },
+ {
+   "Projekt":"Strabag - dodatki do asfaltu drogowego",
+   "Nr projektu":"61/Exol/2023"
  },
  {
    "Projekt":"Sample B",
@@ -2693,6 +2717,10 @@
    "Nr projektu":"23/KR/2023"
  },
  {
+   "Projekt":"J-Wet 2898 Bx",
+   "Nr projektu":"79/Exol/2023"
+ },
+ {
    "Projekt":"Polyester polyols OH 200mgKOH/g, high viscosity 20 000mPas, Flexible Foam \"2450X\"",
    "Nr projektu":"24/KR/2023"
  },
@@ -2701,8 +2729,16 @@
    "Nr projektu":"26/KR/2023"
  },
  {
+   "Projekt":"Allyl random polyether",
+   "Nr projektu":"82/Exol/2023"
+ },
+ {
    "Projekt":"Bardziej elastyczna wersja Active Play AS H 8024",
    "Nr projektu":"28/KR/2023"
+ },
+ {
+   "Projekt":"Dobór inhibitora korozji do formulacji czyszczącej ",
+   "Nr projektu":"91/Exol/2023"
  },
  {
    "Projekt":"Zamiennik odpieniacza dla biogazowni",
@@ -2717,19 +2753,23 @@
    "Nr projektu":"30/KR/2023"
  },
  {
-   "Projekt":"Nowa wersja Active Play AS N RED o mniejszej lepko�ci",
+   "Projekt":"Nowa wersja Active Play AS N RED o mniejszej lepkości",
    "Nr projektu":"31/KR/2023"
  },
  {
-   "Projekt":"Poliester wysokofunkcyjny do natrysk�w PET (rozpuszczony) f=2,7 (Dla PUR)",
+   "Projekt":"Poliester wysokofunkcyjny do natrysków PET (rozpuszczony) f=2,7 (Dla PUR)",
    "Nr projektu":"32/KR/2023"
  },
  {
-   "Projekt":"Rokapury (Cukrowy/Sorbitol + poliester) dla Blok�wki PUR ",
+   "Projekt":"Rokapury (Cukrowy/Sorbitol + poliester) dla Blokówki PUR ",
    "Nr projektu":"33/KR/2023"
  },
  {
-   "Projekt":"Nowa wersja Active Play AS C II GREEN o mniejszej lepko�ci",
+   "Projekt":"Victawet 12 ",
+   "Nr projektu":"106/Exol/2023"
+ },
+ {
+   "Projekt":"Nowa wersja Active Play AS C II GREEN o mniejszej lepkości",
    "Nr projektu":"35/KR/2023"
  },
  {
@@ -2745,7 +2785,15 @@
    "Nr projektu":"39/KR/2023"
  },
  {
-   "Projekt":"Pr�bka z Munzing - zamiennik, analiza",
+   "Projekt":"ROKAnol GT8W",
+   "Nr projektu":"116/Exol/2023"
+ },
+ {
+   "Projekt":"Zamiennik Stepantex PA-90I MB (Tequat LC90i MB)",
+   "Nr projektu":"121/Exol/2023"
+ },
+ {
+   "Projekt":"Próbka z Munzing - zamiennik, analiza",
    "Nr projektu":"124/Exol/2023"
  },
  {
@@ -2753,7 +2801,19 @@
    "Nr projektu":"127/Exol/2023"
  },
  {
-   "Projekt":"Dob�r odpieniacza z oferty PCC EXOL",
+   "Projekt":"ROSULfan A bez konserwantów",
+   "Nr projektu":"128/Exol/2023"
+ },
+ {
+   "Projekt":"Analiza próbki Metolat 200",
+   "Nr projektu":"136/Exol/2023"
+ },
+ {
+   "Projekt":"ROKAmer T4300 -zamiennik 1 : 1 Dowfax DF-117",
+   "Nr projektu":"137/Exol/2023"
+ },
+ {
+   "Projekt":"Dobór odpieniacza z oferty PCC EXOL",
    "Nr projektu":"138/Exol/2023"
  },
  {
@@ -2761,15 +2821,15 @@
    "Nr projektu":"43/KR/2023"
  },
  {
-   "Projekt":"Klej czerwony do gumy oparty na pa�cie pigmentowej - modyfikacja Active Play AS N RED",
+   "Projekt":"Klej czerwony do gumy oparty na paście pigmentowej - modyfikacja Active Play AS N RED",
    "Nr projektu":"45/KR/2023"
  },
  {
-   "Projekt":"Primer do p�yt warstwowych - KR ",
+   "Projekt":"Primer do płyt warstwowych - KR ",
    "Nr projektu":"46/KR/2023"
  },
  {
-   "Projekt":"Hybrydowy poliester PET do paneli z ok�adzin� drewnian�",
+   "Projekt":"Hybrydowy poliester PET do paneli z okładziną drewnianą",
    "Nr projektu":"2/KR/2024"
  },
  {
@@ -2789,7 +2849,7 @@
    "Nr projektu":"26/Exol/2024"
  },
  {
-   "Projekt":"Pr�ba syntezy surfaktant�w silikonowych",
+   "Projekt":"Próba syntezy surfaktantów silikonowych",
    "Nr projektu":"28/Exol/2024"
  },
  {
@@ -2797,7 +2857,7 @@
    "Nr projektu":"34/Exol/2024"
  },
  {
-   "Projekt":"Polieterowy dodatek do pian PIR poszerzaj�cy okno przetw�rcze ",
+   "Projekt":"Polieterowy dodatek do pian PIR poszerzający okno przetwórcze ",
    "Nr projektu":"12/KR/2024"
  },
  {
@@ -2813,11 +2873,15 @@
    "Nr projektu":"86/Exol/2024"
  },
  {
+   "Projekt":"ROKAnol OK3",
+   "Nr projektu":"112/Exol/2024"
+ },
+ {
    "Projekt":"Alkoksylowane  alkohole allilowe",
    "Nr projektu":"3/KR/2016"
  },
  {
-   "Projekt":"Nienasycono�� propenylowa",
+   "Projekt":"Nienasyconość propenylowa",
    "Nr projektu":"4/KR/2016"
  },
  {
@@ -2829,11 +2893,11 @@
    "Nr projektu":"2/KR/2017"
  },
  {
-   "Projekt":"Piana visco do but�w",
+   "Projekt":"Piana visco do butów",
    "Nr projektu":"24/KR/2017"
  },
  {
-   "Projekt":"Poliole polieterowe do �elu PU",
+   "Projekt":"Poliole polieterowe do żelu PU",
    "Nr projektu":"33/KR/2017"
  },
  {
@@ -2841,7 +2905,7 @@
    "Nr projektu":"38/KR/2017"
  },
  {
-   "Projekt":"Roflex iDDP � fosforan difenylo-izodecylowy",
+   "Projekt":"Roflex iDDP – fosforan difenylo-izodecylowy",
    "Nr projektu":"3/KF/2018"
  },
  {
@@ -2869,7 +2933,7 @@
    "Nr projektu":"25/Exol/2018"
  },
  {
-   "Projekt":"CaDDBS - s�l wapniowa ABS",
+   "Projekt":"CaDDBS - sól wapniowa ABS",
    "Nr projektu":"38/Exol/2018"
  },
  {
@@ -2881,11 +2945,11 @@
    "Nr projektu":"41/Exol/2018"
  },
  {
-   "Projekt":"Wype�nienie do ga�nic AB+",
+   "Projekt":"Wypełnienie do gaśnic AB+",
    "Nr projektu":"45/Exol/2018"
  },
  {
-   "Projekt":"Systemy do izolacji wymiennik�w ciep�a bazuj�cych na czynniku spieniaj�cym IV generacji tj. HFO",
+   "Projekt":"Systemy do izolacji wymienników ciepła bazujących na czynniku spieniającym IV generacji tj. HFO",
    "Nr projektu":"13/Prodex/2018"
  },
  {
@@ -2921,15 +2985,15 @@
    "Nr projektu":"42/KF/2018"
  },
  {
-   "Projekt":"Rokolub FR T-32 - niepalne p�yny hydrauliczne typu HFDR",
+   "Projekt":"Rokolub FR T-32 - niepalne płyny hydrauliczne typu HFDR",
    "Nr projektu":"45/KF/2018"
  },
  {
-   "Projekt":"Rokolub FR T-46 ultra - niepalne p�yny hydrauliczne typu HFDR",
+   "Projekt":"Rokolub FR T-46 ultra - niepalne płyny hydrauliczne typu HFDR",
    "Nr projektu":"47/KF/2018"
  },
  {
-   "Projekt":"Rokolub FR T- 68 - niepalne p�yny hydrauliczne typu HFDR",
+   "Projekt":"Rokolub FR T- 68 - niepalne płyny hydrauliczne typu HFDR",
    "Nr projektu":"48/KF/2018"
  },
  {
@@ -3001,7 +3065,7 @@
    "Nr projektu":"9/Exol/2019"
  },
  {
-   "Projekt":"Nowy �rodek perlizuj�cy - EXOpearl NB",
+   "Projekt":"Nowy środek perlizujący - EXOpearl NB",
    "Nr projektu":"11/Exol/2019"
  },
  {
@@ -3013,7 +3077,7 @@
    "Nr projektu":"15/Exol/2019"
  },
  {
-   "Projekt":"Tr�jetanoloamina W",
+   "Projekt":"Trójetanoloamina W",
    "Nr projektu":"16/Exol/2019"
  },
  {
@@ -3037,7 +3101,7 @@
    "Nr projektu":"35/Exol/2019"
  },
  {
-   "Projekt":"Triol 700 do cel�w medycznych",
+   "Projekt":"Triol 700 do celów medycznych",
    "Nr projektu":"4/KR/2019"
  },
  {
@@ -3057,10 +3121,6 @@
    "Nr projektu":"49/Exol/2019"
  },
  {
-   "Projekt":"ROKAmer PP2000, ROKAmer PP4000",
-   "Nr projektu":"55/Exol/2019"
- },
- {
    "Projekt":"Rokanol LP42 - Zamiennik dla Marloxu RT-42",
    "Nr projektu":"57/Exol/2019"
  },
@@ -3075,10 +3135,6 @@
  {
    "Projekt":"ROKAnol GT7",
    "Nr projektu":"61/Exol/2019"
- },
- {
-   "Projekt":"EXOantifoam PPE1  - Zamiennik odpieniacza z firmy TSC",
-   "Nr projektu":"67/Exol/2019"
  },
  {
    "Projekt":"Zamiennik Kurita FC-6850",
@@ -3105,11 +3161,11 @@
    "Nr projektu":"82/Exol/2019"
  },
  {
-   "Projekt":"ROKwin 80 - Synteza w ni�szej temperaturze",
+   "Projekt":"ROKwin 80 - Synteza w niższej temperaturze",
    "Nr projektu":"83/Exol/2019"
  },
  {
-   "Projekt":"Syntetyczny �rodek ga�niczy 3% - Roteor M Plus",
+   "Projekt":"Syntetyczny środek gaśniczy 3% - Roteor M Plus",
    "Nr projektu":"85/Exol/2019"
  },
  {
@@ -3117,7 +3173,7 @@
    "Nr projektu":"86/Exol/2019"
  },
  {
-   "Projekt":"Polyether polyols for gels � soft sticky- SH00",
+   "Projekt":"Polyether polyols for gels – soft sticky- SH00",
    "Nr projektu":"8/KR/2019"
  },
  {
@@ -3125,12 +3181,12 @@
    "Nr projektu":"11/KF/2019"
  },
  {
-   "Projekt":"Alternatywy dla D232P",
-   "Nr projektu":"94/Exol/2019"
- },
- {
    "Projekt":"ROKAnol UD28/70 - Zamiennik Emulsogen LCN287",
    "Nr projektu":"97/Exol/2019"
+ },
+ {
+   "Projekt":"ROKAmer 2000R",
+   "Nr projektu":"99/Exol/2019"
  },
  {
    "Projekt":"ROKAnol EH9LA - Zamiennik Ecosurf EH9",
@@ -3201,7 +3257,7 @@
    "Nr projektu":"18/Exol/2020"
  },
  {
-   "Projekt":"Opracowanie i wdro�enie technologii produkcji paradichlorobenzenu (PDCB)",
+   "Projekt":"Opracowanie i wdrożenie technologii produkcji paradichlorobenzenu (PDCB)",
    "Nr projektu":"1/KC/2020"
  },
  {
@@ -3209,7 +3265,7 @@
    "Nr projektu":"19/Exol/2020"
  },
  {
-   "Projekt":"System poliuretanowy do produkcji korpus�w do uli",
+   "Projekt":"System poliuretanowy do produkcji korpusów do uli",
    "Nr projektu":"1/Prodex/2020"
  },
  {
@@ -3229,24 +3285,20 @@
    "Nr projektu":"33/Exol/2020"
  },
  {
-   "Projekt":"Ceryfikat Koszerno�ci produkt�w w Syntezie ",
+   "Projekt":"Ceryfikat Koszerności produktów w Syntezie ",
    "Nr projektu":"5/Lubs/2020"
  },
  {
-   "Projekt":"Testy aplikacyjne surfaktant�w w procesie polimeryzacji emulsyjnej",
+   "Projekt":"Testy aplikacyjne surfaktantów w procesie polimeryzacji emulsyjnej",
    "Nr projektu":"35/Exol/2020"
  },
  {
-   "Projekt":"Rozw�j �rodk�w OTE",
+   "Projekt":"Rozwój środków OTE",
    "Nr projektu":"36/Exol/2020"
  },
  {
    "Projekt":"Chemfac PB-139 modyfikacja",
    "Nr projektu":"37/Exol/2020"
- },
- {
-   "Projekt":"C16 - C18 label free low foaming profile emulsifiers ",
-   "Nr projektu":"8/Lubs/2020"
  },
  {
    "Projekt":"HPEG 2400",
@@ -3269,7 +3321,7 @@
    "Nr projektu":"58/Exol/2020"
  },
  {
-   "Projekt":"Dob�r buforu w Sulforokanolu L227/1 K",
+   "Projekt":"Dobór buforu w Sulforokanolu L227/1 K",
    "Nr projektu":"60/Exol/2020"
  },
  {
@@ -3281,16 +3333,8 @@
    "Nr projektu":"66/Exol/2020"
  },
  {
-   "Projekt":"Potassium Oleate ",
+   "Projekt":"EXOsoft PO30 - Potassium Oleate ",
    "Nr projektu":"68/Exol/2020"
- },
- {
-   "Projekt":"EXOfos PB-269",
-   "Nr projektu":"71/Exol/2020"
- },
- {
-   "Projekt":"Polikol 300B ",
-   "Nr projektu":"74/Exol/2020"
  },
  {
    "Projekt":"Zamiennik Beizentfetter ",
@@ -3299,10 +3343,6 @@
  {
    "Projekt":"EXOfos PT-A",
    "Nr projektu":"81/Exol/2020"
- },
- {
-   "Projekt":"Rokolub P-B-220 ",
-   "Nr projektu":"10/Lubs/2020"
  },
  {
    "Projekt":"ROKAmer RB1000 ",
@@ -3357,19 +3397,15 @@
    "Nr projektu":"112/Exol/2020"
  },
  {
-   "Projekt":"EXOstat K reklamacja",
-   "Nr projektu":"113/Exol/2020"
- },
- {
    "Projekt":"Poliol wysokofunkcyjny do pianek HR na bazie startera aminowego",
    "Nr projektu":"14/KR/2020"
  },
  {
-   "Projekt":"P�yny do mycia naczy� - ECOLABEL",
+   "Projekt":"Płyny do mycia naczyń - ECOLABEL",
    "Nr projektu":"123/Exol/2020"
  },
  {
-   "Projekt":"P�YNY DO MYCIA POD��G - ECOLABEL",
+   "Projekt":"PŁYNY DO MYCIA PODŁÓG - ECOLABEL",
    "Nr projektu":"124/Exol/2020"
  },
  {
@@ -3397,7 +3433,7 @@
    "Nr projektu":"142/Exol/2020"
  },
  {
-   "Projekt":"Preparaty myj�ce na bazie koncentrat�w zwi�zk�w powierzchniowo czynnych   ",
+   "Projekt":"Preparaty myjące na bazie koncentratów związków powierzchniowo czynnych   ",
    "Nr projektu":"143/Exol/2020"
  },
  {
@@ -3439,10 +3475,6 @@
  {
    "Projekt":"SULFOROKAnol IT330 - Zamiennik Cedepal TD 403",
    "Nr projektu":"166/Exol/2020"
- },
- {
-   "Projekt":"MAXLUBE 510 (PCC Chemax) ",
-   "Nr projektu":"17/Lubs/2020"
  },
  {
    "Projekt":"ROKAnol TMP11",
@@ -3489,7 +3521,7 @@
    "Nr projektu":"191/Exol/2020"
  },
  {
-   "Projekt":"ROKAnol T25 p�atki dla UL",
+   "Projekt":"ROKAnol T25 płatki dla UL",
    "Nr projektu":"195/Exol/2020"
  },
  {
@@ -3525,7 +3557,7 @@
    "Nr projektu":"10/Exol/2021"
  },
  {
-   "Projekt":"EXOcare TE33 p�atki dla LOccitane",
+   "Projekt":"EXOcare TE33 płatki dla LOccitane",
    "Nr projektu":"12/Exol/2021"
  },
  {
@@ -3537,19 +3569,15 @@
    "Nr projektu":"14/Exol/2021"
  },
  {
-   "Projekt":"Rokochem 1133 optymalizacja sk�adu ",
+   "Projekt":"Rokochem 1133 optymalizacja składu ",
    "Nr projektu":"1/Lubs/2021"
  },
  {
-   "Projekt":"Testy emulgator�w do pian elastycznych",
+   "Projekt":"Testy emulgatorów do pian elastycznych",
    "Nr projektu":"16/Exol/2021"
  },
  {
-   "Projekt":"Lafarge - dodatki do cementu",
-   "Nr projektu":"17/Exol/2021"
- },
- {
-   "Projekt":"Rostabil TDP �phenol free� optymalizacja",
+   "Projekt":"Rostabil TDP „phenol free” optymalizacja",
    "Nr projektu":"2/KF/2021"
  },
  {
@@ -3561,11 +3589,7 @@
    "Nr projektu":"21/Exol/2021"
  },
  {
-   "Projekt":"Polikol 8000",
-   "Nr projektu":"22/Exol/2021"
- },
- {
-   "Projekt":"Aero�ele (Aerogels) - Analiza zastosowania w pianach izolacyjnych (PIR/PUR)",
+   "Projekt":"Aerożele (Aerogels) - Analiza zastosowania w pianach izolacyjnych (PIR/PUR)",
    "Nr projektu":"4/KR/2021"
  },
  {
@@ -3573,12 +3597,8 @@
    "Nr projektu":"27/Exol/2021"
  },
  {
-   "Projekt":"ROKAmer 1010R p�atki",
+   "Projekt":"ROKAmer 1010R płatki",
    "Nr projektu":"29/Exol/2021"
- },
- {
-   "Projekt":"Zamiennik Antispumin NPK",
-   "Nr projektu":"33/Exol/2021"
  },
  {
    "Projekt":"Zamiennik Emulan TO2080",
@@ -3589,11 +3609,11 @@
    "Nr projektu":"40/Exol/2021"
  },
  {
-   "Projekt":"ROKAnol T25 p�atki - niestabilne pH",
+   "Projekt":"ROKAnol T25 płatki - niestabilne pH",
    "Nr projektu":"44/Exol/2021"
  },
  {
-   "Projekt":"Akceptacja nowych dostawc�w aminy do produkcji ROKAminy K30B",
+   "Projekt":"Akceptacja nowych dostawców aminy do produkcji ROKAminy K30B",
    "Nr projektu":"45/Exol/2021"
  },
  {
@@ -3609,16 +3629,12 @@
    "Nr projektu":"49/Exol/2021"
  },
  {
-   "Projekt":"Zamiennik �rodka ga�niczego Deteor ME 3%",
+   "Projekt":"Zamiennik środka gaśniczego Deteor ME 3%",
    "Nr projektu":"51/Exol/2021"
  },
  {
    "Projekt":"SULFOROKAnol L170/1LD MB - niski dioksan",
    "Nr projektu":"52/Exol/2021"
- },
- {
-   "Projekt":"Suszona betaina",
-   "Nr projektu":"56/Exol/2021"
  },
  {
    "Projekt":"ROKAnol G12",
@@ -3627,10 +3643,6 @@
  {
    "Projekt":"ROKAmina K40HC dla L'Oreal",
    "Nr projektu":"60/Exol/2021"
- },
- {
-   "Projekt":"EXOdet T25A",
-   "Nr projektu":"61/Exol/2021"
  },
  {
    "Projekt":"ROKAnol G26",
@@ -3665,11 +3677,11 @@
    "Nr projektu":"73/Exol/2021"
  },
  {
-   "Projekt":"ROKAnol LP2024W/95 P- oczyszczany z jon�w",
+   "Projekt":"ROKAnol LP2024W/95 P- oczyszczany z jonów",
    "Nr projektu":"75/Exol/2021"
  },
  {
-   "Projekt":"Aplikacja serii EXOfos PB w bran�y agro",
+   "Projekt":"Aplikacja serii EXOfos PB w branży agro",
    "Nr projektu":"79/Exol/2021"
  },
  {
@@ -3705,7 +3717,7 @@
    "Nr projektu":"89/Exol/2021"
  },
  {
-   "Projekt":"Zamiennik Synative RPE2520 / Pluronic RPE 2520 ",
+   "Projekt":"ROKAmer R3100",
    "Nr projektu":"90/Exol/2021"
  },
  {
@@ -3769,7 +3781,7 @@
    "Nr projektu":"111/Exol/2021"
  },
  {
-   "Projekt":"DETEOR ME 3%- optymalizacja koszt�w wytworzenia, - poprawa stabilno�ci w -10�C\"",
+   "Projekt":"DETEOR ME 3%- optymalizacja kosztów wytworzenia, - poprawa stabilności w -10°C\"",
    "Nr projektu":"115/Exol/2021"
  },
  {
@@ -3785,7 +3797,7 @@
    "Nr projektu":"120/Exol/2021"
  },
  {
-   "Projekt":"ROKAmid MRZ11  - P�produkt do EXOdis PC800",
+   "Projekt":"ROKAmid MRZ11  - Półprodukt do EXOdis PC800",
    "Nr projektu":"122/Exol/2021"
  },
  {
@@ -3829,12 +3841,8 @@
    "Nr projektu":"133/Exol/2021"
  },
  {
-   "Projekt":"Zamiennik Lutensol XL100",
+   "Projekt":"ROKAnol GA10LA Zamiennik Lutensol XL100",
    "Nr projektu":"136/Exol/2021"
- },
- {
-   "Projekt":"Zamiennik Syntapon DS",
-   "Nr projektu":"137/Exol/2021"
  },
  {
    "Projekt":"EXOwet PC85W - Zamiennik Surfynol 485",
@@ -3853,15 +3861,15 @@
    "Nr projektu":"141/Exol/2021"
  },
  {
-   "Projekt":"Dodatek up�ynniaj�cy do suchych mieszanek cementowych",
+   "Projekt":"Dodatek upłynniający do suchych mieszanek cementowych",
    "Nr projektu":"5/KF/2021"
  },
  {
-   "Projekt":"PCE modyfikowany fosforem - Up�ynniacz nowej generacji",
+   "Projekt":"PCE modyfikowany fosforem - Upłynniacz nowej generacji",
    "Nr projektu":"7/KF/2021"
  },
  {
-   "Projekt":"PCE bazuj�cy na HPEG 2400",
+   "Projekt":"PCE bazujący na HPEG 2400",
    "Nr projektu":"8/KF/2021"
  },
  {
@@ -3877,7 +3885,7 @@
    "Nr projektu":"1/Exol/2022"
  },
  {
-   "Projekt":"Panele do system�w wentylacji o klasie palno�ci E",
+   "Projekt":"Panele do systemów wentylacji o klasie palności E",
    "Nr projektu":"1/Prodex/2022"
  },
  {
@@ -3893,7 +3901,7 @@
    "Nr projektu":"4/Prodex/2022"
  },
  {
-   "Projekt":"System morskie - Aktualizacja produkt�w tj. Ekoprodur 3530B2",
+   "Projekt":"System morskie - Aktualizacja produktów tj. Ekoprodur 3530B2",
    "Nr projektu":"7/Prodex/2022"
  },
  {
@@ -3905,7 +3913,7 @@
    "Nr projektu":"6/Exol/2022"
  },
  {
-   "Projekt":"ROKAmin SR25/45 Etoksylowana amina �ojowa + 25EO, 45% aktywnej",
+   "Projekt":"ROKAmin SR25/45 Etoksylowana amina łojowa + 25EO, 45% aktywnej",
    "Nr projektu":"7/Exol/2022"
  },
  {
@@ -3913,7 +3921,7 @@
    "Nr projektu":"8/Exol/2022"
  },
  {
-   "Projekt":"Synteza APG o �a�cuchu C8-C10",
+   "Projekt":"Synteza APG o łańcuchu C8-C10",
    "Nr projektu":"10/Exol/2022"
  },
  {
@@ -3937,10 +3945,6 @@
    "Nr projektu":"2/KR/2022"
  },
  {
-   "Projekt":"Rokanol TMP7R modyfikacja pod Alfa Smart Agro",
-   "Nr projektu":"13/Exol/2022"
- },
- {
    "Projekt":"ROKAnol LP3",
    "Nr projektu":"14/Exol/2022"
  },
@@ -3949,11 +3953,11 @@
    "Nr projektu":"3/KR/2022"
  },
  {
-   "Projekt":"Nanocz�stki fosforu",
+   "Projekt":"Nanocząstki fosforu",
    "Nr projektu":"2/KF/2022"
  },
  {
-   "Projekt":"Zastosowanie gliceryn ni�szej czysto�ci",
+   "Projekt":"Zastosowanie gliceryn niższej czystości",
    "Nr projektu":"4/KR/2022"
  },
  {
@@ -3973,15 +3977,15 @@
    "Nr projektu":"20/Exol/2022"
  },
  {
-   "Projekt":"Oleje do kompersor�w ",
+   "Projekt":"Oleje do kompersorów ",
    "Nr projektu":"5/KR/2022"
  },
  {
-   "Projekt":"Oleje i p�yny hydrauliczne HFC, HFDU, HFDR ",
+   "Projekt":"Oleje i płyny hydrauliczne HFC, HFDU, HFDR ",
    "Nr projektu":"6/KR/2022"
  },
  {
-   "Projekt":"Formulacje do przekladni przemys�owych - GEAR oils ",
+   "Projekt":"Formulacje do przekladni przemysłowych - GEAR oils ",
    "Nr projektu":"7/KR/2022"
  },
  {
@@ -4041,7 +4045,7 @@
    "Nr projektu":"10/KR/2022"
  },
  {
-   "Projekt":"Potanienie p�ynu do naczy� - Donauchem",
+   "Projekt":"Potanienie płynu do naczyń - Donauchem",
    "Nr projektu":"30/Exol/2022"
  },
  {
@@ -4057,7 +4061,7 @@
    "Nr projektu":"5/Lubs/2022"
  },
  {
-   "Projekt":"Betainy - optymalizacja koszt�w - modyfikacja surowcowa",
+   "Projekt":"Betainy - optymalizacja kosztów - modyfikacja surowcowa",
    "Nr projektu":"33/Exol/2022"
  },
  {
@@ -4065,7 +4069,7 @@
    "Nr projektu":"34/Exol/2022"
  },
  {
-   "Projekt":"Betainy - optymalizacja zawarto�ci substancji aktywnej",
+   "Projekt":"Betainy - optymalizacja zawartości substancji aktywnej",
    "Nr projektu":"37/Exol/2022"
  },
  {
@@ -4097,19 +4101,15 @@
    "Nr projektu":"12/KR/2022"
  },
  {
-   "Projekt":"Rokolub PO-D-320",
-   "Nr projektu":"6/Lubs/2022"
- },
- {
    "Projekt":"System do produkcji uli poliuretanowych BeePoint",
    "Nr projektu":"11/Prodex/2022"
  },
  {
-   "Projekt":"System do produkcji bloczk�w poliuretanowych",
+   "Projekt":"System do produkcji bloczków poliuretanowych",
    "Nr projektu":"12/Prodex/2022"
  },
  {
-   "Projekt":"System do podk�ad�w pod bojlery",
+   "Projekt":"System do podkładów pod bojlery",
    "Nr projektu":"13/Prodex/2022"
  },
  {
@@ -4125,7 +4125,7 @@
    "Nr projektu":"7/Lubs/2022"
  },
  {
-   "Projekt":"Sacoflam 31201 �rodki alternatywne",
+   "Projekt":"Sacoflam 31201 Środki alternatywne",
    "Nr projektu":"1/Exol+KF/2022"
  },
  {
@@ -4149,10 +4149,6 @@
    "Nr projektu":"6/KF/2022"
  },
  {
-   "Projekt":"Rokolub 50-B-460",
-   "Nr projektu":"10/Lubs/2022"
- },
- {
    "Projekt":"Zamiennik produktu Disperdente 254 ",
    "Nr projektu":"7/KF/2022"
  },
@@ -4165,7 +4161,7 @@
    "Nr projektu":"14/KR/2022"
  },
  {
-   "Projekt":"�rodek antyadhezyjny",
+   "Projekt":"Środek antyadhezyjny",
    "Nr projektu":"8/KF/2022"
  },
  {
@@ -4185,19 +4181,19 @@
    "Nr projektu":"54/Exol/2022"
  },
  {
-   "Projekt":"Promowanie nowych surowc�w w myj�cych formach kosmetycznych- Targi HPCI",
+   "Projekt":"Promowanie nowych surowców w myjących formach kosmetycznych- Targi HPCI",
    "Nr projektu":"60/Exol/2022"
  },
  {
-   "Projekt":"Formulacje czyszcz�ce I&I  � produkty do utrzymania czysto�ci w hotelach",
+   "Projekt":"Formulacje czyszczące I&I  – produkty do utrzymania czystości w hotelach",
    "Nr projektu":"63/Exol/2022"
  },
  {
-   "Projekt":"Formulacje pior�ce I&I  � ekologiczne produkty do prania",
+   "Projekt":"Formulacje piorące I&I  – ekologiczne produkty do prania",
    "Nr projektu":"64/Exol/2022"
  },
  {
-   "Projekt":"Produkty odka�aj�ce i dezynfekuj�ce w bran�y hotelarskiej - aspekt prawny",
+   "Projekt":"Produkty odkażające i dezynfekujące w branży hotelarskiej - aspekt prawny",
    "Nr projektu":"65/Exol/2022"
  },
  {
@@ -4213,14 +4209,6 @@
    "Nr projektu":"67/Exol/2022"
  },
  {
-   "Projekt":"EXOfos PB-134",
-   "Nr projektu":"71/Exol/2022"
- },
- {
-   "Projekt":"HPEG 4000",
-   "Nr projektu":"72/Exol/2022"
- },
- {
    "Projekt":"Zamiennik Chemsulf SCO-75",
    "Nr projektu":"75/Exol/2022"
  },
@@ -4229,7 +4217,7 @@
    "Nr projektu":"76/Exol/2022"
  },
  {
-   "Projekt":"Blendy EXOfos-�w _EPAW",
+   "Projekt":"Blendy EXOfos-ów _EPAW",
    "Nr projektu":"77/Exol/2022"
  },
  {
@@ -4249,7 +4237,7 @@
    "Nr projektu":"9/KF/2022"
  },
  {
-   "Projekt":"Rofluid CA -PS up�ynniacz do gipsu ",
+   "Projekt":"Rofluid CA -PS upłynniacz do gipsu ",
    "Nr projektu":"10/KF/2022"
  },
  {
@@ -4273,11 +4261,11 @@
    "Nr projektu":"82/Exol/2022"
  },
  {
-   "Projekt":"Rokanol 010 (PF) - weryfikacja zgodno�ci",
+   "Projekt":"Rokanol 010 (PF) - weryfikacja zgodności",
    "Nr projektu":"83/Exol/2022"
  },
  {
-   "Projekt":"Zwil�acz do PCE",
+   "Projekt":"Zwilżacz do PCE",
    "Nr projektu":"84/Exol/2022"
  },
  {
@@ -4305,15 +4293,11 @@
    "Nr projektu":"93/Exol/2022"
  },
  {
-   "Projekt":"Dyspergowanie sadzy",
-   "Nr projektu":"11/Lubs/2022"
- },
- {
    "Projekt":"ROKAmer RB2700",
    "Nr projektu":"94/Exol/2022"
  },
  {
-   "Projekt":"Zawarto�� wolnego tlenku etylenu < 0,1 ppm",
+   "Projekt":"Zawartość wolnego tlenku etylenu < 0,1 ppm",
    "Nr projektu":"95/Exol/2022"
  },
  {
@@ -4321,11 +4305,11 @@
    "Nr projektu":"96/Exol/2022"
  },
  {
-   "Projekt":"Musy i �mietanki - nowe formy kosmetyczne",
+   "Projekt":"Musy i śmietanki - nowe formy kosmetyczne",
    "Nr projektu":"97/Exol/2022"
  },
  {
-   "Projekt":"Formulacje czyszcz�ce I&I  � kuchenki i piekarniki restauracyjne",
+   "Projekt":"Formulacje czyszczące I&I  – kuchenki i piekarniki restauracyjne",
    "Nr projektu":"99/Exol/2022"
  },
  {
@@ -4333,11 +4317,11 @@
    "Nr projektu":"100/Exol/2022"
  },
  {
-   "Projekt":"Procesy czyszczenia podczas recyklingu odpad�w metalowych",
+   "Projekt":"Procesy czyszczenia podczas recyklingu odpadów metalowych",
    "Nr projektu":"102/Exol/2022"
  },
  {
-   "Projekt":"Formulacje czyszcz�ce I&I  � pod�ogi i blaty w bran�y restauracyjnej ",
+   "Projekt":"Formulacje czyszczące I&I  – podłogi i blaty w branży restauracyjnej ",
    "Nr projektu":"103/Exol/2022"
  },
  {
@@ -4353,7 +4337,7 @@
    "Nr projektu":"106/Exol/2022"
  },
  {
-   "Projekt":"Dob�r dyspergatora/ kompatybilizatora do nawozu cynkowego",
+   "Projekt":"Dobór dyspergatora/ kompatybilizatora do nawozu cynkowego",
    "Nr projektu":"107/Exol/2022"
  },
  {
@@ -4373,24 +4357,12 @@
    "Nr projektu":"13/Lubs/2022"
  },
  {
-   "Projekt":"Zamiennik dla demulgatora Demtriss R117 ",
-   "Nr projektu":"110/Exol/2022"
- },
- {
    "Projekt":"ROKAnol ID6B",
    "Nr projektu":"112/Exol/2022"
  },
  {
    "Projekt":"ROKOlub GAS 150- optymalizacja",
    "Nr projektu":"14/Lubs/2022"
- },
- {
-   "Projekt":"Walliphos TRDP 60",
-   "Nr projektu":"113/Exol/2022"
- },
- {
-   "Projekt":"Walliphos EHDP 30",
-   "Nr projektu":"114/Exol/2022"
  },
  {
    "Projekt":"Walloxen TR 60",
@@ -4425,10 +4397,6 @@
    "Nr projektu":"122/Exol/2022"
  },
  {
-   "Projekt":"Modyfikacja EXOemulu EM260 i EXOemulu A3 ",
-   "Nr projektu":"123/Exol/2022"
- },
- {
    "Projekt":"Chemeen C-15",
    "Nr projektu":"124/Exol/2022"
  },
@@ -4449,7 +4417,7 @@
    "Nr projektu":"3/Exol/2023"
  },
  {
-   "Projekt":"EXOfosy zneutralizowane amin� rozpuszczalne r�wnie� w innych rozpuszczalnikach ni� woda",
+   "Projekt":"EXOfosy zneutralizowane aminą rozpuszczalne również w innych rozpuszczalnikach niż woda",
    "Nr projektu":"4/Exol/2023"
  },
  {
@@ -4473,7 +4441,7 @@
    "Nr projektu":"9/Exol/2023"
  },
  {
-   "Projekt":"Kwasowo��/ alkaliczno�� w �rodowisku r�nych neutralizator�w",
+   "Projekt":"Kwasowość/ alkaliczność w środowisku różnych neutralizatorów",
    "Nr projektu":"10/Exol/2023"
  },
  {
@@ -4481,7 +4449,7 @@
    "Nr projektu":"11/Exol/2023"
  },
  {
-   "Projekt":"Stearamidopropyl Dimethylamine ",
+   "Projekt":"ROKAmid SPDA - Stearamidopropyl Dimethylamine ",
    "Nr projektu":"12/Exol/2023"
  },
  {
@@ -4509,7 +4477,7 @@
    "Nr projektu":"1/Lubs/2023"
  },
  {
-   "Projekt":"ROKAnolu L2L. _Sprawdzenie mo�liwo�ci otrzymania etoksylat�w WDH",
+   "Projekt":"ROKAnolu L2L. _Sprawdzenie możliwości otrzymania etoksylatów WDH",
    "Nr projektu":"16/Exol/2023"
  },
  {
@@ -4517,7 +4485,7 @@
    "Nr projektu":"17/Exol/2023"
  },
  {
-   "Projekt":"Optymalizacja w�a�ciwo�ci antypiennych lubrykant�w",
+   "Projekt":"Optymalizacja właściwości antypiennych lubrykantów",
    "Nr projektu":"2/Lubs/2023"
  },
  {
@@ -4557,11 +4525,11 @@
    "Nr projektu":"24/Exol/2023"
  },
  {
-   "Projekt":"Hybrydowy poliester do paneli warstowych z ok�adzin� drewnian�. ",
+   "Projekt":"Hybrydowy poliester do paneli warstowych z okładziną drewnianą. ",
    "Nr projektu":"9/KR/2023"
  },
  {
-   "Projekt":"Specjalistyczny Polieter dla hybrydowych pow�ok polimocznikowych ",
+   "Projekt":"Specjalistyczny Polieter dla hybrydowych powłok polimocznikowych ",
    "Nr projektu":"10/KR/2023"
  },
  {
@@ -4569,7 +4537,7 @@
    "Nr projektu":"13/KR/2023"
  },
  {
-   "Projekt":"Poliester PET/AGS/bio/odpadowy glikol - dla cel�w ekonomicznego surowca do natrysk�w",
+   "Projekt":"Poliester PET/AGS/bio/odpadowy glikol - dla celów ekonomicznego surowca do natrysków",
    "Nr projektu":"14/KR/2023"
  },
  {
@@ -4585,10 +4553,6 @@
    "Nr projektu":"1/MCAA/2023"
  },
  {
-   "Projekt":"EXOdis L/30",
-   "Nr projektu":"28/Exol/2023"
- },
- {
    "Projekt":"ROKAnol EH8",
    "Nr projektu":"29/Exol/2023"
  },
@@ -4597,11 +4561,7 @@
    "Nr projektu":"30/Exol/2023"
  },
  {
-   "Projekt":"ROKAnol G8P",
-   "Nr projektu":"31/Exol/2023"
- },
- {
-   "Projekt":"Promowanie surowc�w sp�ki PCC Exol w formulacjach Personal Care",
+   "Projekt":"Promowanie surowców spółki PCC Exol w formulacjach Personal Care",
    "Nr projektu":"32/Exol/2023"
  },
  {
@@ -4629,7 +4589,7 @@
    "Nr projektu":"18/KR/2023"
  },
  {
-   "Projekt":"Polypav C18 - kolektor do flotacji na Ukrain�",
+   "Projekt":"Polypav C18 - kolektor do flotacji na Ukrainę",
    "Nr projektu":"38/Exol/2023"
  },
  {
@@ -4653,7 +4613,7 @@
    "Nr projektu":"3/Lubs/2023"
  },
  {
-   "Projekt":"PCE bazuj�cy na HPEG 3000",
+   "Projekt":"PCE bazujący na HPEG 3000",
    "Nr projektu":"1/KF/2023"
  },
  {
@@ -4673,7 +4633,7 @@
    "Nr projektu":"48/Exol/2023"
  },
  {
-   "Projekt":"Reaktywne plastyfikatory- dodatki monofunkcyjne do poliuretan�w",
+   "Projekt":"Reaktywne plastyfikatory- dodatki monofunkcyjne do poliuretanów",
    "Nr projektu":"19/KR/2023"
  },
  {
@@ -4693,23 +4653,23 @@
    "Nr projektu":"51/Exol/2023"
  },
  {
-   "Projekt":"Pr�ba LAB 6309-1",
+   "Projekt":"Próba LAB 6309-1",
    "Nr projektu":"52/Exol/2023"
  },
  {
-   "Projekt":"Pr�ba LAB 6309-2",
+   "Projekt":"Próba LAB 6309-2",
    "Nr projektu":"53/Exol/2023"
  },
  {
-   "Projekt":"Pr�ba LAB 6309-3",
+   "Projekt":"Próba LAB 6309-3",
    "Nr projektu":"54/Exol/2023"
  },
  {
-   "Projekt":"ROKAmer 2500 - Pr�ba LAB 6309-4 Dowfaxem DF-124 ",
+   "Projekt":"ROKAmer 2500 - Próba LAB 6309-4 Dowfaxem DF-124 ",
    "Nr projektu":"55/Exol/2023"
  },
  {
-   "Projekt":"L3/40 bez konserwant�w",
+   "Projekt":"L3/40 bez konserwantów",
    "Nr projektu":"56/Exol/2023"
  },
  {
@@ -4727,10 +4687,6 @@
  {
    "Projekt":"ROKAnol LP2124 Zamiennik Prevol 936",
    "Nr projektu":"60/Exol/2023"
- },
- {
-   "Projekt":"Strabag - dodatki do asfaltu drogowego",
-   "Nr projektu":"61/Exol/2023"
  },
  {
    "Projekt":"Rokolub PO-D-700",
@@ -4813,7 +4769,7 @@
    "Nr projektu":"4/KF/2023"
  },
  {
-   "Projekt":"Poliole standardowe i dodatki do polioli z du�� zawarto�ci� tlenku etylenu",
+   "Projekt":"Poliole standardowe i dodatki do polioli z dużą zawartością tlenku etylenu",
    "Nr projektu":"22/KR/2023"
  },
  {
@@ -4831,10 +4787,6 @@
  {
    "Projekt":"Rokolub 50-B-1000",
    "Nr projektu":"10/Lubs/2023"
- },
- {
-   "Projekt":"J-Wet 2898 Bx",
-   "Nr projektu":"79/Exol/2023"
  },
  {
    "Projekt":"Viscoelastic Polyol for Hard foam & Repoliol",
@@ -4855,10 +4807,6 @@
  {
    "Projekt":"Estry MCAA",
    "Nr projektu":"2/MCAA/2023"
- },
- {
-   "Projekt":"Allyl random polyether",
-   "Nr projektu":"82/Exol/2023"
  },
  {
    "Projekt":"Zamiennik Acrysol RM 5000",
@@ -4905,19 +4853,15 @@
    "Nr projektu":"90/Exol/2023"
  },
  {
-   "Projekt":"Dob�r inhibitora korozji do formulacji czyszcz�cej ",
-   "Nr projektu":"91/Exol/2023"
- },
- {
    "Projekt":"EXOfos PB244 Zamiennik Lubrophos RD-510E",
    "Nr projektu":"92/Exol/2023"
  },
  {
-   "Projekt":"Alkaliczny �rodek czyszcz�cy dla Mondi",
+   "Projekt":"Alkaliczny środek czyszczący dla Mondi",
    "Nr projektu":"93/Exol/2023"
  },
  {
-   "Projekt":"Kwa�ny �rodek czyszcz�cy dla Mondi",
+   "Projekt":"Kwaśny środek czyszczący dla Mondi",
    "Nr projektu":"94/Exol/2023"
  },
  {
@@ -4937,11 +4881,11 @@
    "Nr projektu":"99/Exol/2023"
  },
  {
-   "Projekt":"Surfaktant niskopieni�cy do formulacji czyszczacej stali.",
+   "Projekt":"Surfaktant niskopieniący do formulacji czyszczacej stali.",
    "Nr projektu":"101/Exol/2023"
  },
  {
-   "Projekt":"Dob�r inhibitora korozji do formulacji czyszcz�cej �ruby",
+   "Projekt":"Dobór inhibitora korozji do formulacji czyszczącej śruby",
    "Nr projektu":"102/Exol/2023"
  },
  {
@@ -4961,11 +4905,7 @@
    "Nr projektu":"34/KR/2023"
  },
  {
-   "Projekt":"Victawet 12 ",
-   "Nr projektu":"106/Exol/2023"
- },
- {
-   "Projekt":"Produkt Rebond o zmiejszonej reaktywno�ci  (wersja letnia)",
+   "Projekt":"Produkt Rebond o zmiejszonej reaktywności  (wersja letnia)",
    "Nr projektu":"36/KR/2023"
  },
  {
@@ -4977,7 +4917,7 @@
    "Nr projektu":"108/Exol/2023"
  },
  {
-   "Projekt":"Nowa wersja Active Play AS H 8008 o zmniejszonych w�a�ciwo�ciach pieni�cych.",
+   "Projekt":"Nowa wersja Active Play AS H 8008 o zmniejszonych właściwościach pieniących.",
    "Nr projektu":"37/KR/2023"
  },
  {
@@ -5009,10 +4949,6 @@
    "Nr projektu":"115/Exol/2023"
  },
  {
-   "Projekt":"ROKAnol GT8W",
-   "Nr projektu":"116/Exol/2023"
- },
- {
    "Projekt":"Dimer - opracowanie zamiennika",
    "Nr projektu":"117/Exol/2023"
  },
@@ -5031,10 +4967,6 @@
  {
    "Projekt":"ROKAnol UD10",
    "Nr projektu":"120/Exol/2023"
- },
- {
-   "Projekt":"Zamiennik Stepantex PA-90I MB (Tequat LC90i MB)",
-   "Nr projektu":"121/Exol/2023"
  },
  {
    "Projekt":"ROKAmer 1900 - Zamiennik Pluronic PE 3500/Synperonic PE/L 35",
@@ -5059,10 +4991,6 @@
  {
    "Projekt":"ILCO PHOS 208",
    "Nr projektu":"126/Exol/2023"
- },
- {
-   "Projekt":"ROSULfan A bez konserwant�w",
-   "Nr projektu":"128/Exol/2023"
  },
  {
    "Projekt":"Domielacz klinkieru",
@@ -5097,31 +5025,23 @@
    "Nr projektu":"42/KR/2023"
  },
  {
-   "Projekt":"Analiza pr�bki Metolat 200",
-   "Nr projektu":"136/Exol/2023"
- },
- {
-   "Projekt":"ROKAmer T4300 -zamiennik 1 : 1 Dowfax DF-117",
-   "Nr projektu":"137/Exol/2023"
- },
- {
    "Projekt":"Zamiennik Imbentinu-SG-803 ",
    "Nr projektu":"139/Exol/2023"
  },
  {
-   "Projekt":"Klej do p�yt LDF - KR",
+   "Projekt":"Klej do płyt LDF - KR",
    "Nr projektu":"44/KR/2023"
  },
  {
-   "Projekt":"Klej do we�ny - 2K, wype�niony",
+   "Projekt":"Klej do wełny - 2K, wypełniony",
    "Nr projektu":"47/KR/2023"
  },
  {
-   "Projekt":"Dob�r emulgator�w do preparatu antyadhezyjnego ",
+   "Projekt":"Dobór emulgatorów do preparatu antyadhezyjnego ",
    "Nr projektu":"140/Exol/2023"
  },
  {
-   "Projekt":"Rokester do OCF oparty o surowce pochodzenia naturalnego lub na recyclingu surowc�w - KR",
+   "Projekt":"Rokester do OCF oparty o surowce pochodzenia naturalnego lub na recyclingu surowców - KR",
    "Nr projektu":"48/KR/2023"
  },
  {
@@ -5149,7 +5069,7 @@
    "Nr projektu":"1/Lubs/2024"
  },
  {
-   "Projekt":"Formu�owany poliester bez nonylofenolu i uniepalniaczy halogenowych. ",
+   "Projekt":"Formułowany poliester bez nonylofenolu i uniepalniaczy halogenowych. ",
    "Nr projektu":"3/KR/2024"
  },
  {
@@ -5161,7 +5081,7 @@
    "Nr projektu":"4/KR/2024"
  },
  {
-   "Projekt":"Rokopol do OCF zawieraj�cy w swoim sk�adzie tlenek etylenu",
+   "Projekt":"Rokopol do OCF zawierający w swoim składzie tlenek etylenu",
    "Nr projektu":"5/KR/2024"
  },
  {
@@ -5181,7 +5101,7 @@
    "Nr projektu":"7/Exol/2024"
  },
  {
-   "Projekt":"Pian natryskowa otwarto-kom�rkowa o podwy�szonej g�sto�ci",
+   "Projekt":"Pian natryskowa otwarto-komórkowa o podwyższonej gęstości",
    "Nr projektu":"1/Prodex/2024"
  },
  {
@@ -5189,7 +5109,7 @@
    "Nr projektu":"2/Prodex/2024"
  },
  {
-   "Projekt":"Nowy CAS - izolacja natryskowa otwarto-kom�rkowa w klasie E dedykowano do klient�w Crossin",
+   "Projekt":"Nowy CAS - izolacja natryskowa otwarto-komórkowa w klasie E dedykowano do klientów Crossin",
    "Nr projektu":"3/Prodex/2024"
  },
  {
@@ -5201,7 +5121,7 @@
    "Nr projektu":"5/Prodex/2024"
  },
  {
-   "Projekt":"Rozszerzenie oferty system�w pian blokowych dla klienta K-Flex",
+   "Projekt":"Rozszerzenie oferty systemów pian blokowych dla klienta K-Flex",
    "Nr projektu":"6/Prodex/2024"
  },
  {
@@ -5261,7 +5181,7 @@
    "Nr projektu":"9/KR/2024"
  },
  {
-   "Projekt":"MONITORING PR�BEK",
+   "Projekt":"MONITORING PRÓBEK",
    "Nr projektu":"2/CHEMAX/2024"
  },
  {
@@ -5289,11 +5209,11 @@
    "Nr projektu":"1/KF/2024"
  },
  {
-   "Projekt":"Roflex T70L zawarto�� TPP < 0,1%",
+   "Projekt":"Roflex T70L zawartość TPP < 0,1%",
    "Nr projektu":"2/KF/2024"
  },
  {
-   "Projekt":"Roflex T45 zawarto�� TPP < 0,1%",
+   "Projekt":"Roflex T45 zawartość TPP < 0,1%",
    "Nr projektu":"3/KF/2024"
  },
  {
@@ -5305,7 +5225,7 @@
    "Nr projektu":"27/Exol/2024"
  },
  {
-   "Projekt":"Emulgatory do wosk�w",
+   "Projekt":"Emulgatory do wosków",
    "Nr projektu":"29/Exol/2024"
  },
  {
@@ -5345,11 +5265,11 @@
    "Nr projektu":"39/Exol/2024"
  },
  {
-   "Projekt":"Poliole do prepolimer�w OCF low free MDI dla Lanxess",
+   "Projekt":"Poliole do prepolimerów OCF low free MDI dla Lanxess",
    "Nr projektu":"11/KR/2024"
  },
  {
-   "Projekt":"Produkty do korekcji wody dla kot�owni gazowo-wodorowej EC",
+   "Projekt":"Produkty do korekcji wody dla kotłowni gazowo-wodorowej EC",
    "Nr projektu":"40/Exol/2024"
  },
  {
@@ -5381,11 +5301,11 @@
    "Nr projektu":"7/KF/2024"
  },
  {
-   "Projekt":"PCE HPEG 2400 dedykowany do cement�w niskoemisyjnych ",
+   "Projekt":"PCE HPEG 2400 dedykowany do cementów niskoemisyjnych ",
    "Nr projektu":"8/KF/2024"
  },
  {
-   "Projekt":"Testy emulgator�w pod receptur� asfaltow� (papy)",
+   "Projekt":"Testy emulgatorów pod recepturę asfaltową (papy)",
    "Nr projektu":"44/Exol/2024"
  },
  {
@@ -5393,7 +5313,7 @@
    "Nr projektu":"45/Exol/2024"
  },
  {
-   "Projekt":"�rodk�w odpieniaj�cych dla Superplastyfikator�w od Atlas",
+   "Projekt":"Środków odpieniających dla Superplastyfikatorów od Atlas",
    "Nr projektu":"46/Exol/2024"
  },
  {
@@ -5421,11 +5341,11 @@
    "Nr projektu":"13/KR/2024"
  },
  {
-   "Projekt":"Nowa wersja AS N RED i AS N GREEN o lepszej odporno�ci na promieniowanie UV.",
+   "Projekt":"Nowa wersja AS N RED i AS N GREEN o lepszej odporności na promieniowanie UV.",
    "Nr projektu":"14/KR/2024"
  },
  {
-   "Projekt":"Rokapur PR2K 97- WI�KSZA ELASTYCZNOSC",
+   "Projekt":"Rokapur PR2K 97- WIĘKSZA ELASTYCZNOSC",
    "Nr projektu":"15/KR/2024"
  },
  {
@@ -5433,11 +5353,11 @@
    "Nr projektu":"53/Exol/2024"
  },
  {
-   "Projekt":"Usuwanie pozosta�o�ci owad�w i zanieczyszcze� drogowych z nadwozi samochod�w - opracowanie formacji",
+   "Projekt":"Usuwanie pozostałości owadów i zanieczyszczeń drogowych z nadwozi samochodów - opracowanie formacji",
    "Nr projektu":"54/Exol/2024"
  },
  {
-   "Projekt":"Nowa wersja AS C II RED, AS C II GREEN i AS C II GREY o lepszej odporno�ci na promieniowanie UV.",
+   "Projekt":"Nowa wersja AS C II RED, AS C II GREEN i AS C II GREY o lepszej odporności na promieniowanie UV.",
    "Nr projektu":"16/KR/2024"
  },
  {
@@ -5493,7 +5413,7 @@
    "Nr projektu":"66/Exol/2024"
  },
  {
-   "Projekt":"3M Francja - poliol DMC MW6000 g/mol EO15-20wt% by DMC dla klej�w",
+   "Projekt":"3M Francja - poliol DMC MW6000 g/mol EO15-20wt% by DMC dla klejów",
    "Nr projektu":"18/KR/2024"
  },
  {
@@ -5521,7 +5441,7 @@
    "Nr projektu":"72/Exol/2024"
  },
  {
-   "Projekt":"Zamiennik Texapon P dla R�ssler",
+   "Projekt":"Zamiennik Texapon P dla Rössler",
    "Nr projektu":"73/Exol/2024"
  },
  {
@@ -5533,11 +5453,11 @@
    "Nr projektu":"2/Lubs/2024"
  },
  {
-   "Projekt":"Produkt 2K - system (klej) stosowany w produkcji filtr�w ",
+   "Projekt":"Produkt 2K - system (klej) stosowany w produkcji filtrów ",
    "Nr projektu":"19/KR/2024"
  },
  {
-   "Projekt":"Obni�enie zawarto�ci 1,4-dioksanu w estrach fosforowych.",
+   "Projekt":"Obniżenie zawartości 1,4-dioksanu w estrach fosforowych.",
    "Nr projektu":"75/Exol/2024"
  },
  {
@@ -5545,7 +5465,7 @@
    "Nr projektu":"20/KR/2024"
  },
  {
-   "Projekt":"Wymiana fluorosurfaktant�w w koncentratach pianotw�rczych",
+   "Projekt":"Wymiana fluorosurfaktantów w koncentratach pianotwórczych",
    "Nr projektu":"76/Exol/2024"
  },
  {
@@ -5557,11 +5477,11 @@
    "Nr projektu":"78/Exol/2024"
  },
  {
-   "Projekt":"SULFOROKAnol IT330 - wytr�canie kryszta�k�w",
+   "Projekt":"SULFOROKAnol IT330 - wytrącanie kryształków",
    "Nr projektu":"79/Exol/2024"
  },
  {
-   "Projekt":"Poliole o wysokiej zawarto�ci EO na starterze w technologii kwasowej",
+   "Projekt":"Poliole o wysokiej zawartości EO na starterze w technologii kwasowej",
    "Nr projektu":"21/KR/2024"
  },
  {
@@ -5569,7 +5489,7 @@
    "Nr projektu":"80/Exol/2024"
  },
  {
-   "Projekt":"Trendy w bran�y AutoCare",
+   "Projekt":"Trendy w branży AutoCare",
    "Nr projektu":"81/Exol/2024"
  },
  {
@@ -5577,7 +5497,7 @@
    "Nr projektu":"82/Exol/2024"
  },
  {
-   "Projekt":"Poliester tworz�cy mikroemulsj� z pentanem ",
+   "Projekt":"Poliester tworzący mikroemulsję z pentanem ",
    "Nr projektu":"22/KR/2024"
  },
  {
@@ -5597,7 +5517,7 @@
    "Nr projektu":"85/Exol/2024"
  },
  {
-   "Projekt":"Elastomery, twardo�� Shore'A ok. 80",
+   "Projekt":"Elastomery, twardość Shore'A ok. 80",
    "Nr projektu":"24/KR/2024"
  },
  {
@@ -5609,7 +5529,7 @@
    "Nr projektu":"88/Exol/2024"
  },
  {
-   "Projekt":"Polikol 6000PF p�atki",
+   "Projekt":"Polikol 6000PF płatki",
    "Nr projektu":"89/Exol/2024"
  },
  {
@@ -5617,7 +5537,7 @@
    "Nr projektu":"90/Exol/2024"
  },
  {
-   "Projekt":"Klej 2K do ��czenia granulatu gumowego",
+   "Projekt":"Klej 2K do łączenia granulatu gumowego",
    "Nr projektu":"25/KR/2024"
  },
  {
@@ -5641,7 +5561,7 @@
    "Nr projektu":"95/Exol/2024"
  },
  {
-   "Projekt":"Produkty pod bran�� ceramiczn� ",
+   "Projekt":"Produkty pod branżę ceramiczną ",
    "Nr projektu":"96/Exol/2024"
  },
  {
@@ -5697,7 +5617,7 @@
    "Nr projektu":"26/KR/2024"
  },
  {
-   "Projekt":"Klej do wyk�adzin - bran�a automotive",
+   "Projekt":"Klej do wykładzin - branża automotive",
    "Nr projektu":"27/KR/2024"
  },
  {
@@ -5721,7 +5641,7 @@
    "Nr projektu":"107/Exol/2024"
  },
  {
-   "Projekt":"Pr�bki referencyjne - kompleks lubrykant�w",
+   "Projekt":"Próbki referencyjne - kompleks lubrykantów",
    "Nr projektu":"3/Lubs/2024"
  },
  {
@@ -5733,16 +5653,12 @@
    "Nr projektu":"109/Exol/2024"
  },
  {
-   "Projekt":"Dob�r surfaktant�w do kwas�w humusowych - naw�z",
+   "Projekt":"Dobór surfaktantów do kwasów humusowych - nawóz",
    "Nr projektu":"110/Exol/2024"
  },
  {
-   "Projekt":"Rozszerzenie bada� pod serie solubilizator�w - badania odporno�ci",
+   "Projekt":"Rozszerzenie badań pod serie solubilizatorów - badania odporności",
    "Nr projektu":"111/Exol/2024"
- },
- {
-   "Projekt":"ROKAnol OK3",
-   "Nr projektu":"112/Exol/2024"
  },
  {
    "Projekt":"Klej jednokomponentowy do tworzenia piany sztywnej.",
@@ -5753,7 +5669,7 @@
    "Nr projektu":"113/Exol/2024"
  },
  {
-   "Projekt":"Badanie pr�bek referencyjnych z Rowis",
+   "Projekt":"Badanie próbek referencyjnych z Rowis",
    "Nr projektu":"114/Exol/2024"
  },
  {
@@ -5761,7 +5677,7 @@
    "Nr projektu":"115/Exol/2024"
  },
  {
-   "Projekt":"P�yn do czyszczenia powierzchni PU",
+   "Projekt":"Płyn do czyszczenia powierzchni PU",
    "Nr projektu":"4/Lubs/2024"
  },
  {
@@ -5797,7 +5713,7 @@
    "Nr projektu":"30/KR/2024"
  },
  {
-   "Projekt":"�rodek czyszcz�cy do tuszy drukarskich",
+   "Projekt":"Środek czyszczący do tuszy drukarskich",
    "Nr projektu":"122/Exol/2024"
  },
  {
@@ -5833,11 +5749,11 @@
    "Nr projektu":"126/Exol/2024"
  },
  {
-   "Projekt":"Badanie pr�bek referencyjnych SLESu",
+   "Projekt":"Badanie próbek referencyjnych SLESu",
    "Nr projektu":"127/Exol/2024"
  },
  {
-   "Projekt":"D�ugi polieter z du�� zawarto�ci� tlenku etylenu do Selena",
+   "Projekt":"Długi polieter z dużą zawartością tlenku etylenu do Selena",
    "Nr projektu":"35/KR/2024"
  },
  {
@@ -5849,11 +5765,11 @@
    "Nr projektu":"129/Exol/2024"
  },
  {
-   "Projekt":"Dob�r demulgatora do przepracowanego oleju",
+   "Projekt":"Dobór demulgatora do przepracowanego oleju",
    "Nr projektu":"130/Exol/2024"
  },
  {
-   "Projekt":"�el do prania i p�ukania 2w1 ",
+   "Projekt":"Żel do prania i płukania 2w1 ",
    "Nr projektu":"131/Exol/2024"
  },
  {
@@ -5881,7 +5797,7 @@
    "Nr projektu":"137/Exol/2024"
  },
  {
-   "Projekt":"Sulforokanol UD727 o wy�szej substancji aktywnej",
+   "Projekt":"Sulforokanol UD727 o wyższej substancji aktywnej",
    "Nr projektu":"138/Exol/2024"
  },
  {
@@ -5889,7 +5805,7 @@
    "Nr projektu":"36/KR/2024"
  },
  {
-   "Projekt":"P�ynne kapsu�ki do zmywarek",
+   "Projekt":"Płynne kapsułki do zmywarek",
    "Nr projektu":"139/Exol/2024"
  },
  {
@@ -5917,7 +5833,7 @@
    "Nr projektu":"13/KF/2024"
  },
  {
-   "Projekt":"Wp�yw sta�ych uniepalniaczy na jako�� piany PIR",
+   "Projekt":"Wpływ stałych uniepalniaczy na jakość piany PIR",
    "Nr projektu":"37/KR/2024"
  },
  {
@@ -5941,7 +5857,7 @@
    "Nr projektu":"146/Exol/2024"
  },
  {
-   "Projekt":"Blendy olej�w bazowych oraz formulacje syntetycznych �rodk�w smarowych do zastosowa� przemys�owych",
+   "Projekt":"Blendy olejów bazowych oraz formulacje syntetycznych środków smarowych do zastosowań przemysłowych",
    "Nr projektu":"6/Lubs/2024"
  },
  {
@@ -5949,11 +5865,11 @@
    "Nr projektu":"147/Exol/2024"
  },
  {
-   "Projekt":"Opracowanie produktu do czyszczenia filtr�w DPF",
+   "Projekt":"Opracowanie produktu do czyszczenia filtrów DPF",
    "Nr projektu":"7/Lubs/2024"
  },
  {
-   "Projekt":"Formu�owany poliol do laminacji PUR",
+   "Projekt":"Formułowany poliol do laminacji PUR",
    "Nr projektu":"38/KR/2024"
  },
  {
@@ -5961,7 +5877,7 @@
    "Nr projektu":"148/Exol/2024"
  },
  {
-   "Projekt":"System piany elastycznej o wysokiej g�sto�ci typu HR - maszyny rolnicze",
+   "Projekt":"System piany elastycznej o wysokiej gęstości typu HR - maszyny rolnicze",
    "Nr projektu":"7/Prodex/2024"
  },
  {
@@ -5973,7 +5889,7 @@
    "Nr projektu":"9/Prodex/2024"
  },
  {
-   "Projekt":"Dob�r surfaktant�w dla Adfors",
+   "Projekt":"Dobór surfaktantów dla Adfors",
    "Nr projektu":"149/Exol/2024"
  },
  {
@@ -5981,7 +5897,7 @@
    "Nr projektu":"150/Exol/2024"
  },
  {
-   "Projekt":"Przyspieszacz wi�zania betonu",
+   "Projekt":"Przyspieszacz wiązania betonu",
    "Nr projektu":"151/Exol/2024"
  },
  {
@@ -5991,6 +5907,90 @@
  {
    "Projekt":"Produkty dla ML-7",
    "Nr projektu":"153/Exol/2024"
+ },
+ {
+   "Projekt":"Czyszczenie kostki brukowej",
+   "Nr projektu":"1/Exol/2025"
+ },
+ {
+   "Projekt":"Nowa Chloroparafina w ASH 8013_2 ",
+   "Nr projektu":"1/KR/2025"
+ },
+ {
+   "Projekt":"MTJ Group - opracowanie odpowiednika kleju konkurencji  AS H 8014K",
+   "Nr projektu":"2/KR/2025"
+ },
+ {
+   "Projekt":"Modyfikacja i wdrożenie propoksylatu gliceryny MW 700g/mol zgodnego z wymaganiami Soudal",
+   "Nr projektu":"3/KR/2025"
+ },
+ {
+   "Projekt":"Poliole do żeli hydrofobowych PU",
+   "Nr projektu":"4/KR/2025"
+ },
+ {
+   "Projekt":"Federal Eco foam - Rebound",
+   "Nr projektu":"5/KR/2025"
+ },
+ {
+   "Projekt":"Klej do wycieraczek z włóknem naturalnym",
+   "Nr projektu":"6/KR/2025"
+ },
+ {
+   "Projekt":"Poliol formułowany do pianek OCF klasy B2 do Flexivel",
+   "Nr projektu":"7/KR/2025"
+ },
+ {
+   "Projekt":"iPol H PLUS",
+   "Nr projektu":"8/KR/2025"
+ },
+ {
+   "Projekt":"Poliol 100% BIO",
+   "Nr projektu":"9/KR/2025"
+ },
+ {
+   "Projekt":"ROKAcet HR16 dla S+S",
+   "Nr projektu":"2/Exol/2025"
+ },
+ {
+   "Projekt":"Nowe środki dyspergujące do farb rozpuszczalnikowych",
+   "Nr projektu":"3/Exol/2025"
+ },
+ {
+   "Projekt":"Zamiennik Disperbyk 190",
+   "Nr projektu":"4/Exol/2025"
+ },
+ {
+   "Projekt":"Zamiennik Lutensol AO79",
+   "Nr projektu":"5/Exol/2025"
+ },
+ {
+   "Projekt":"Roteor F3-AR - Zamiennik Enviro 3x3 Ultra",
+   "Nr projektu":"6/Exol/2025"
+ },
+ {
+   "Projekt":"EXOsoft L3/40 HC",
+   "Nr projektu":"7/Exol/2025"
+ },
+ {
+   "Projekt":"Zamiennik Proksanol CL-3",
+   "Nr projektu":"8/Exol/2025"
+ },
+ {
+   "Projekt":"Nowe izocyjaniany w aplikacji prepolimerów - walidacja nowych dostawców ",
+   "Nr projektu":"10/KR/2025"
+ },
+ {
+   "Projekt":"Uniwersalny poliol HR (SAN/PIPA) na eksport",
+   "Nr projektu":"11/KR/2025"
+ },
+ {
+   "Projekt":"Wybielanie Rosulfan L/PH",
+   "Nr projektu":"9/Exol/2025"
+ },
+ {
+   "Projekt":"Rozgałęziony poliol na bazie oleju rycynowego ",
+   "Nr projektu":"12/KR/2025"
  },
  {
    "Projekt":"Nie dotyczy",
