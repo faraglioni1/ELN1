@@ -1,126 +1,6 @@
 {
     "data": [
  {
-   "Projekt":"Specjalistyczny polieter do CASE",
-   "Nr projektu":"32/KR/2017"
- },
- {
-   "Projekt":"Poliester do bloków",
-   "Nr projektu":"35/KR/2017"
- },
- {
-   "Projekt":"Poliestry do natrysków na PET",
-   "Nr projektu":"36/KR/2017"
- },
- {
-   "Projekt":"Poliestry poprawiające palność",
-   "Nr projektu":"37/KR/2017"
- },
- {
-   "Projekt":"Poliol do pianki Visco MDI",
-   "Nr projektu":"39/KR/2017"
- },
- {
-   "Projekt":"Poliol do pianek elastycznych hydrofobowych",
-   "Nr projektu":"40/KR/2017"
- },
- {
-   "Projekt":"Poliol LDB12000D",
-   "Nr projektu":"42/KR/2017"
- },
- {
-   "Projekt":"Poliol LDB18000D",
-   "Nr projektu":"43/KR/2017"
- },
- {
-   "Projekt":"Rokester 2420",
-   "Nr projektu":"44/KR/2017"
- },
- {
-   "Projekt":"Rokester 2415",
-   "Nr projektu":"45/KR/2017"
- },
- {
-   "Projekt":"Rokester 2411.02",
-   "Nr projektu":"46/KR/2017"
- },
- {
-   "Projekt":"Poliol LDB6000D",
-   "Nr projektu":"47/KR/2017"
- },
- {
-   "Projekt":"Rokester 1945",
-   "Nr projektu":"48/KR/2017"
- },
- {
-   "Projekt":"Poliol cukrowy DS484",
-   "Nr projektu":"49/KR/2017"
- },
- {
-   "Projekt":"Poliol DE320",
-   "Nr projektu":"50/KR/2017"
- },
- {
-   "Projekt":"Rokopol EP1750",
-   "Nr projektu":"51/KR/2017"
- },
- {
-   "Projekt":"Poliol LDB8000D",
-   "Nr projektu":"52/KR/2017"
- },
- {
-   "Projekt":"Poliol LDB4000D",
-   "Nr projektu":"53/KR/2017"
- },
- {
-   "Projekt":"Poliester mieszalny z pentanami 2420",
-   "Nr projektu":"54/KR/2017"
- },
- {
-   "Projekt":"Monol MW5000",
-   "Nr projektu":"55/KR/2017"
- },
- {
-   "Projekt":"Poliol soft EP1160",
-   "Nr projektu":"56/KR/2017"
- },
- {
-   "Projekt":"RM polyol - Halogen free solutions for foams",
-   "Nr projektu":"57/KR/2017"
- },
- {
-   "Projekt":"Poliol poliestrowy dla IKO 1911",
-   "Nr projektu":"58/KR/2017"
- },
- {
-   "Projekt":"Poliester na kwasie tereftalowym",
-   "Nr projektu":"60/KR/2017"
- },
- {
-   "Projekt":"Poliester o wysokiej odporności ogniowej LOH 250",
-   "Nr projektu":"61/KR/2017"
- },
- {
-   "Projekt":"Poliester o wysokiej odporności ogniowej LOH 180",
-   "Nr projektu":"62/KR/2017"
- },
- {
-   "Projekt":"Rokester 3610",
-   "Nr projektu":"63/KR/2017"
- },
- {
-   "Projekt":"Rokester 0600",
-   "Nr projektu":"64/KR/2017"
- },
- {
-   "Projekt":"BIO polyesters",
-   "Nr projektu":"65/KR/2017"
- },
- {
-   "Projekt":"Polyester polyols with better FR properties",
-   "Nr projektu":"66/KR/2017"
- },
- {
    "Projekt":"High functionality polyester polyols",
    "Nr projektu":"67/KR/2017"
  },
@@ -561,6 +441,10 @@
    "Nr projektu":"12/Prodex/2018"
  },
  {
+   "Projekt":"Systemy do izolacji wymienników ciepła bazujących na czynniku spieniającym IV generacji tj. HFO",
+   "Nr projektu":"13/Prodex/2018"
+ },
+ {
    "Projekt":"Ekoprodur okna dachowe",
    "Nr projektu":"15/Prodex/2018"
  },
@@ -625,6 +509,10 @@
    "Nr projektu":"62/Exol/2018"
  },
  {
+   "Projekt":"Rokolub AD 132 - dodatek typu AW/EP",
+   "Nr projektu":"36/KF/2018"
+ },
+ {
    "Projekt":"Rokolub AD 146 - dodatek typu AW/EP",
    "Nr projektu":"37/KF/2018"
  },
@@ -639,6 +527,10 @@
  {
    "Projekt":"Rokolub AD 246 ultra- dodatek typu AW/EP",
    "Nr projektu":"41/KF/2018"
+ },
+ {
+   "Projekt":"Rokolub AD 268 - dodatek typu AW/EP",
+   "Nr projektu":"42/KF/2018"
  },
  {
    "Projekt":"Rokolub FR I-32 - niepalne płyny hydrauliczne typu HFDR",
@@ -711,6 +603,10 @@
  {
    "Projekt":"End capped surfactants",
    "Nr projektu":"68/Exol/2018"
+ },
+ {
+   "Projekt":"ROKAnol CMT9H - Alkyl ether carboxylic acid 9EO",
+   "Nr projektu":"69/Exol/2018"
  },
  {
    "Projekt":"ROKAcet KO400G",
@@ -989,6 +885,10 @@
    "Nr projektu":"34/Exol/2019"
  },
  {
+   "Projekt":"EXOwet IPAC - Zamiennik Metolat 365",
+   "Nr projektu":"35/Exol/2019"
+ },
+ {
    "Projekt":"Formulacje na Metazachlorze",
    "Nr projektu":"36/Exol/2019"
  },
@@ -1091,10 +991,6 @@
  {
    "Projekt":"ROKAnol GT3",
    "Nr projektu":"64/Exol/2019"
- },
- {
-   "Projekt":"Zamiennik Serdox NSL30_30",
-   "Nr projektu":"65/Exol/2019"
  },
  {
    "Projekt":"Zamiennik odpieniacza z firmy Filar",
@@ -1295,6 +1191,10 @@
  {
    "Projekt":"ROKAnol MT7",
    "Nr projektu":"4/Exol/2020"
+ },
+ {
+   "Projekt":"Sulforokanol L725/1",
+   "Nr projektu":"6/Exol/2020"
  },
  {
    "Projekt":"ROKAnol DB6",
@@ -1633,6 +1533,10 @@
    "Nr projektu":"90/Exol/2020"
  },
  {
+   "Projekt":"Rokanol TSP25/80",
+   "Nr projektu":"91/Exol/2020"
+ },
+ {
    "Projekt":"Zamiennik Kamiperl",
    "Nr projektu":"93/Exol/2020"
  },
@@ -1707,6 +1611,10 @@
  {
    "Projekt":"SYstem do produkcji paneli dekoracyjnych",
    "Nr projektu":"6/Prodex/2020"
+ },
+ {
+   "Projekt":"EXOpacifier",
+   "Nr projektu":"112/Exol/2020"
  },
  {
    "Projekt":"Silany - Rosilan",
@@ -1829,6 +1737,10 @@
    "Nr projektu":"138/Exol/2020"
  },
  {
+   "Projekt":"ROKAnol G30",
+   "Nr projektu":"139/Exol/2020"
+ },
+ {
    "Projekt":"ROKAnol S3",
    "Nr projektu":"141/Exol/2020"
  },
@@ -1871,6 +1783,10 @@
  {
    "Projekt":"Chemal TDA-15(H)",
    "Nr projektu":"148/Exol/2020"
+ },
+ {
+   "Projekt":"Opracowanie technologii syntezy butylodiglikolu (BDG)",
+   "Nr projektu":"149/Exol/2020"
  },
  {
    "Projekt":"Próba uniepalnienia ROSULfanu LP",
@@ -2009,8 +1925,16 @@
    "Nr projektu":"184/Exol/2020"
  },
  {
+   "Projekt":"Sulfobursztynian DOSS50BGE",
+   "Nr projektu":"185/Exol/2020"
+ },
+ {
    "Projekt":"Wymiana surowca w Sulfobursztynianie N5",
    "Nr projektu":"186/Exol/2020"
+ },
+ {
+   "Projekt":"Sulforokanol A370/1 -> A360/1",
+   "Nr projektu":"187/Exol/2020"
  },
  {
    "Projekt":"SULFOROKAnol L225/1B",
@@ -2035,6 +1959,10 @@
  {
    "Projekt":"Modyfikacja Rokrylu SU25",
    "Nr projektu":"194/Exol/2020"
+ },
+ {
+   "Projekt":"ROKAfenol D22 (Zamiennik ROKAfenolu N22 )",
+   "Nr projektu":"197/Exol/2020"
  },
  {
    "Projekt":"MPEG2200",
@@ -2101,6 +2029,10 @@
    "Nr projektu":"11/Exol/2021"
  },
  {
+   "Projekt":"ROKAfenol D22",
+   "Nr projektu":"13/Exol/2021"
+ },
+ {
    "Projekt":"Utylizacja ciemnego ROKAmidu MRZ4",
    "Nr projektu":"15/Exol/2021"
  },
@@ -2131,6 +2063,10 @@
  {
    "Projekt":"Polikol 400PF dla L'Oreal",
    "Nr projektu":"20/Exol/2021"
+ },
+ {
+   "Projekt":"Antystatyk do antyadhezji",
+   "Nr projektu":"21/Exol/2021"
  },
  {
    "Projekt":"Polikol 8000",
@@ -2349,12 +2285,28 @@
    "Nr projektu":"99/Exol/2021"
  },
  {
+   "Projekt":"SULFOROKAnol G370",
+   "Nr projektu":"103/Exol/2021"
+ },
+ {
    "Projekt":"Zmiana antyutleniacza w F3000",
    "Nr projektu":"13/KR/2021"
  },
  {
    "Projekt":"Zmiana antyutleniacza w M1140",
    "Nr projektu":"14/KR/2021"
+ },
+ {
+   "Projekt":"SULFOROKAnol EP1016/30",
+   "Nr projektu":"106/Exol/2021"
+ },
+ {
+   "Projekt":"ROKAnol UDL40/70",
+   "Nr projektu":"108/Exol/2021"
+ },
+ {
+   "Projekt":"ROKAnol UDL28/70",
+   "Nr projektu":"109/Exol/2021"
  },
  {
    "Projekt":"ROKAcet HR40 - alternatywne surowce",
@@ -2441,6 +2393,10 @@
    "Nr projektu":"4/Exol/2022"
  },
  {
+   "Projekt":"System morskie - Aktualizacja produktów tj. Ekoprodur 3530B2",
+   "Nr projektu":"7/Prodex/2022"
+ },
+ {
    "Projekt":"Rokolub 50-B-120B",
    "Nr projektu":"1/KR/2022"
  },
@@ -2465,6 +2421,10 @@
    "Nr projektu":"16/Exol/2022"
  },
  {
+   "Projekt":"MPEG1000",
+   "Nr projektu":"27/Exol/2022"
+ },
+ {
    "Projekt":"ROKAmer G700 - kopolimer blokowy dla BECE",
    "Nr projektu":"35/Exol/2022"
  },
@@ -2473,8 +2433,16 @@
    "Nr projektu":"36/Exol/2022"
  },
  {
+   "Projekt":"Betainy - optymalizacja zawartości substancji aktywnej",
+   "Nr projektu":"37/Exol/2022"
+ },
+ {
    "Projekt":"EXOfos PB-136 na ROKAnolu LT5",
    "Nr projektu":"41/Exol/2022"
+ },
+ {
+   "Projekt":"POLIkol 1500W",
+   "Nr projektu":"42/Exol/2022"
  },
  {
    "Projekt":"Rokolub P-B-120",
@@ -2495,6 +2463,10 @@
  {
    "Projekt":"Opracowanie i wdrożenie systemu S11E-MAX",
    "Nr projektu":"9/Prodex/2022"
+ },
+ {
+   "Projekt":"System do podkładów pod bojlery",
+   "Nr projektu":"13/Prodex/2022"
  },
  {
    "Projekt":"ROKAnol IT9S w płynie do płukania tkanin",
@@ -2609,6 +2581,14 @@
    "Nr projektu":"101/Exol/2022"
  },
  {
+   "Projekt":"Dobór dyspergatora/ kompatybilizatora do nawozu cynkowego",
+   "Nr projektu":"107/Exol/2022"
+ },
+ {
+   "Projekt":"ROKAnol UDL7",
+   "Nr projektu":"109/Exol/2022"
+ },
+ {
    "Projekt":"Zamiennik dla demulgatora Demtriss R117 ",
    "Nr projektu":"110/Exol/2022"
  },
@@ -2637,8 +2617,20 @@
    "Nr projektu":"5/KR/2023"
  },
  {
+   "Projekt":"Zamiennik Silcosperse CT 1024",
+   "Nr projektu":"15/Exol/2023"
+ },
+ {
    "Projekt":"Primer do płyt PIR",
    "Nr projektu":"6/KR/2023"
+ },
+ {
+   "Projekt":"ROKAnol ID11 - Zamiennik Lutensolu ON110",
+   "Nr projektu":"18/Exol/2023"
+ },
+ {
+   "Projekt":"ROSULfan E dla Elementis",
+   "Nr projektu":"24/Exol/2023"
  },
  {
    "Projekt":"Chemfac PN-133D",
@@ -2833,6 +2825,18 @@
    "Nr projektu":"2/KR/2024"
  },
  {
+   "Projekt":"Nowy CAS - izolacja natryskowa otwarto-komórkowa w klasie E dedykowano do klientów Crossin",
+   "Nr projektu":"3/Prodex/2024"
+ },
+ {
+   "Projekt":"Systemy pian blokowych dla klienta Steinbacher",
+   "Nr projektu":"4/Prodex/2024"
+ },
+ {
+   "Projekt":"ROKAnol L7EW/90",
+   "Nr projektu":"8/Exol/2024"
+ },
+ {
    "Projekt":"EXOsoft- ",
    "Nr projektu":"16/Exol/2024"
  },
@@ -2853,12 +2857,20 @@
    "Nr projektu":"28/Exol/2024"
  },
  {
+   "Projekt":"ROKAnol GP50",
+   "Nr projektu":"30/Exol/2024"
+ },
+ {
    "Projekt":"Modyfikacja technologii produkcji EXOfos PB-184 dla BASF -> EXOfos PB-183B",
    "Nr projektu":"34/Exol/2024"
  },
  {
    "Projekt":"Polieterowy dodatek do pian PIR poszerzający okno przetwórcze ",
    "Nr projektu":"12/KR/2024"
+ },
+ {
+   "Projekt":"Środków odpieniających dla Superplastyfikatorów od Atlas",
+   "Nr projektu":"46/Exol/2024"
  },
  {
    "Projekt":"EXOsoft L3/40 - poprawa zapachu ",
@@ -2933,7 +2945,7 @@
    "Nr projektu":"25/Exol/2018"
  },
  {
-   "Projekt":"CaDDBS - sól wapniowa ABS",
+   "Projekt":"EXOcal 60B, EXOcal 60  - CaDDBS ",
    "Nr projektu":"38/Exol/2018"
  },
  {
@@ -2947,10 +2959,6 @@
  {
    "Projekt":"Wypełnienie do gaśnic AB+",
    "Nr projektu":"45/Exol/2018"
- },
- {
-   "Projekt":"Systemy do izolacji wymienników ciepła bazujących na czynniku spieniającym IV generacji tj. HFO",
-   "Nr projektu":"13/Prodex/2018"
  },
  {
    "Projekt":"System poliuretanowy do wzmocnienia konstrukcyjnego wykonanych ABS",
@@ -2977,14 +2985,6 @@
    "Nr projektu":"54/Exol/2018"
  },
  {
-   "Projekt":"Rokolub AD 132 - dodatek typu AW/EP",
-   "Nr projektu":"36/KF/2018"
- },
- {
-   "Projekt":"Rokolub AD 268 - dodatek typu AW/EP",
-   "Nr projektu":"42/KF/2018"
- },
- {
    "Projekt":"Rokolub FR T-32 - niepalne płyny hydrauliczne typu HFDR",
    "Nr projektu":"45/KF/2018"
  },
@@ -3007,10 +3007,6 @@
  {
    "Projekt":"Glicyna",
    "Nr projektu":"8/MCAA/2018"
- },
- {
-   "Projekt":"ROKAnol CMT9H - Alkyl ether carboxylic acid 9EO",
-   "Nr projektu":"69/Exol/2018"
  },
  {
    "Projekt":"Roflex 6041 (mieszanina Roflex T70 i Roflex DPO)",
@@ -3097,10 +3093,6 @@
    "Nr projektu":"33/Exol/2019"
  },
  {
-   "Projekt":"EXOwet IPAC - Zamiennik Metolat 365",
-   "Nr projektu":"35/Exol/2019"
- },
- {
    "Projekt":"Triol 700 do celów medycznych",
    "Nr projektu":"4/KR/2019"
  },
@@ -3135,6 +3127,10 @@
  {
    "Projekt":"ROKAnol GT7",
    "Nr projektu":"61/Exol/2019"
+ },
+ {
+   "Projekt":"Zamiennik Serdox NSL30_30",
+   "Nr projektu":"65/Exol/2019"
  },
  {
    "Projekt":"Zamiennik Kurita FC-6850",
@@ -3231,10 +3227,6 @@
  {
    "Projekt":"Zamiennik kopolimeru RTB3510 dla NCR Biochimica",
    "Nr projektu":"5/Exol/2020"
- },
- {
-   "Projekt":"Sulforokanol L725/1",
-   "Nr projektu":"6/Exol/2020"
  },
  {
    "Projekt":"ROKAmer R2650 - Zamiennik Synative/Pluronic 17R4",
@@ -3357,10 +3349,6 @@
    "Nr projektu":"89/Exol/2020"
  },
  {
-   "Projekt":"Rokanol TSP25/80",
-   "Nr projektu":"91/Exol/2020"
- },
- {
    "Projekt":"Rigid foam for the in situ application ",
    "Nr projektu":"5/Prodex/2020"
  },
@@ -3393,10 +3381,6 @@
    "Nr projektu":"12/KR/2020"
  },
  {
-   "Projekt":"EXOpacifier",
-   "Nr projektu":"112/Exol/2020"
- },
- {
    "Projekt":"Poliol wysokofunkcyjny do pianek HR na bazie startera aminowego",
    "Nr projektu":"14/KR/2020"
  },
@@ -3421,10 +3405,6 @@
    "Nr projektu":"131/Exol/2020"
  },
  {
-   "Projekt":"ROKAnol G30",
-   "Nr projektu":"139/Exol/2020"
- },
- {
    "Projekt":"ROKAnol T3",
    "Nr projektu":"140/Exol/2020"
  },
@@ -3441,10 +3421,6 @@
    "Nr projektu":"16/Lubs/2020"
  },
  {
-   "Projekt":"Opracowanie technologii syntezy butylodiglikolu (BDG)",
-   "Nr projektu":"149/Exol/2020"
- },
- {
    "Projekt":"ROKAnol U2",
    "Nr projektu":"152/Exol/2020"
  },
@@ -3453,7 +3429,7 @@
    "Nr projektu":"9/KF/2020"
  },
  {
-   "Projekt":"Rosilica - forma koloidalna",
+   "Projekt":"Rosilica - zawiesina wodna",
    "Nr projektu":"10/KF/2020"
  },
  {
@@ -3501,14 +3477,6 @@
    "Nr projektu":"20/Lubs/2020"
  },
  {
-   "Projekt":"Sulfobursztynian DOSS50BGE",
-   "Nr projektu":"185/Exol/2020"
- },
- {
-   "Projekt":"Sulforokanol A370/1 -> A360/1",
-   "Nr projektu":"187/Exol/2020"
- },
- {
    "Projekt":"Rokolub MOS 32 na KOH",
    "Nr projektu":"21/Lubs/2020"
  },
@@ -3527,10 +3495,6 @@
  {
    "Projekt":"Polikol 4000BW/50",
    "Nr projektu":"196/Exol/2020"
- },
- {
-   "Projekt":"ROKAfenol D22 (Zamiennik ROKAfenolu N22 )",
-   "Nr projektu":"197/Exol/2020"
  },
  {
    "Projekt":"REOPOLYOL IKANO",
@@ -3561,10 +3525,6 @@
    "Nr projektu":"12/Exol/2021"
  },
  {
-   "Projekt":"ROKAfenol D22",
-   "Nr projektu":"13/Exol/2021"
- },
- {
    "Projekt":"ROKAfenol D40",
    "Nr projektu":"14/Exol/2021"
  },
@@ -3583,10 +3543,6 @@
  {
    "Projekt":"ROKAnol MT7 ekonomic",
    "Nr projektu":"19/Exol/2021"
- },
- {
-   "Projekt":"Antystatyk do antyadhezji",
-   "Nr projektu":"21/Exol/2021"
  },
  {
    "Projekt":"Aerożele (Aerogels) - Analiza zastosowania w pianach izolacyjnych (PIR/PUR)",
@@ -3745,10 +3701,6 @@
    "Nr projektu":"102/Exol/2021"
  },
  {
-   "Projekt":"SULFOROKAnol G370",
-   "Nr projektu":"103/Exol/2021"
- },
- {
    "Projekt":"ROKAmer 6500 - Zamiennik Pluronic PE10500",
    "Nr projektu":"104/Exol/2021"
  },
@@ -3757,20 +3709,8 @@
    "Nr projektu":"105/Exol/2021"
  },
  {
-   "Projekt":"SULFOROKAnol EP1016/30",
-   "Nr projektu":"106/Exol/2021"
- },
- {
    "Projekt":"ROKwinol HO50",
    "Nr projektu":"107/Exol/2021"
- },
- {
-   "Projekt":"ROKAnol UDL40/70",
-   "Nr projektu":"108/Exol/2021"
- },
- {
-   "Projekt":"ROKAnol UDL28/70",
-   "Nr projektu":"109/Exol/2021"
  },
  {
    "Projekt":"Zamiennik Pluronic PE4300 - ROKAmer 1750",
@@ -3901,10 +3841,6 @@
    "Nr projektu":"4/Prodex/2022"
  },
  {
-   "Projekt":"System morskie - Aktualizacja produktów tj. Ekoprodur 3530B2",
-   "Nr projektu":"7/Prodex/2022"
- },
- {
    "Projekt":"Biohydraulic fluids P-LA-30, P-LA-46",
    "Nr projektu":"3/Lubs/2022"
  },
@@ -4017,10 +3953,6 @@
    "Nr projektu":"26/Exol/2022"
  },
  {
-   "Projekt":"MPEG1000",
-   "Nr projektu":"27/Exol/2022"
- },
- {
    "Projekt":"Rokolub P-B-180",
    "Nr projektu":"4/Lubs/2022"
  },
@@ -4069,10 +4001,6 @@
    "Nr projektu":"34/Exol/2022"
  },
  {
-   "Projekt":"Betainy - optymalizacja zawartości substancji aktywnej",
-   "Nr projektu":"37/Exol/2022"
- },
- {
    "Projekt":"Cocamide MEA - ROKAmid KAM",
    "Nr projektu":"38/Exol/2022"
  },
@@ -4083,10 +4011,6 @@
  {
    "Projekt":"Zamiennik Servoxyl VPDZ 20/100",
    "Nr projektu":"40/Exol/2022"
- },
- {
-   "Projekt":"POLIkol 1500W",
-   "Nr projektu":"42/Exol/2022"
  },
  {
    "Projekt":"Zamiennik Phosphetal 213",
@@ -4107,10 +4031,6 @@
  {
    "Projekt":"System do produkcji bloczków poliuretanowych",
    "Nr projektu":"12/Prodex/2022"
- },
- {
-   "Projekt":"System do podkładów pod bojlery",
-   "Nr projektu":"13/Prodex/2022"
  },
  {
    "Projekt":"EXOsoft AB25 - C12-C15 alkyl benzoate ",
@@ -4229,7 +4149,7 @@
    "Nr projektu":"78/Exol/2022"
  },
  {
-   "Projekt":"Zamiennik Soprophor TSP 796",
+   "Projekt":"EXOdis AG-137 - Zamiennik Soprophor TSP 796",
    "Nr projektu":"79/Exol/2022"
  },
  {
@@ -4337,20 +4257,12 @@
    "Nr projektu":"106/Exol/2022"
  },
  {
-   "Projekt":"Dobór dyspergatora/ kompatybilizatora do nawozu cynkowego",
-   "Nr projektu":"107/Exol/2022"
- },
- {
    "Projekt":"ROKwinol 60 - reaktywacja",
    "Nr projektu":"108/Exol/2022"
  },
  {
    "Projekt":"Rokolub P-B-20",
    "Nr projektu":"12/Lubs/2022"
- },
- {
-   "Projekt":"ROKAnol UDL7",
-   "Nr projektu":"109/Exol/2022"
  },
  {
    "Projekt":"Rokolub 60-D-68",
@@ -4469,10 +4381,6 @@
    "Nr projektu":"3/KR/2023"
  },
  {
-   "Projekt":"Zamiennik Silcosperse CT 1024",
-   "Nr projektu":"15/Exol/2023"
- },
- {
    "Projekt":"Rokolub P-B-150",
    "Nr projektu":"1/Lubs/2023"
  },
@@ -4487,10 +4395,6 @@
  {
    "Projekt":"Optymalizacja właściwości antypiennych lubrykantów",
    "Nr projektu":"2/Lubs/2023"
- },
- {
-   "Projekt":"ROKAnol ID11 - Zamiennik Lutensolu ON110",
-   "Nr projektu":"18/Exol/2023"
  },
  {
    "Projekt":"Merpoxen SMP 200 QL",
@@ -4519,10 +4423,6 @@
  {
    "Projekt":"prepolimer do bitum",
    "Nr projektu":"8/KR/2023"
- },
- {
-   "Projekt":"ROSULfan E dla Elementis",
-   "Nr projektu":"24/Exol/2023"
  },
  {
    "Projekt":"Hybrydowy poliester do paneli warstowych z okładziną drewnianą. ",
@@ -5097,7 +4997,7 @@
    "Nr projektu":"6/Exol/2024"
  },
  {
-   "Projekt":"Zamiennik Merpoxen_RO_180_G-QL",
+   "Projekt":"ROKAcet R18G LD - Merpoxen_RO_180_G-QL",
    "Nr projektu":"7/Exol/2024"
  },
  {
@@ -5109,24 +5009,12 @@
    "Nr projektu":"2/Prodex/2024"
  },
  {
-   "Projekt":"Nowy CAS - izolacja natryskowa otwarto-komórkowa w klasie E dedykowano do klientów Crossin",
-   "Nr projektu":"3/Prodex/2024"
- },
- {
-   "Projekt":"Systemy pian blokowych dla klienta Steinbacher",
-   "Nr projektu":"4/Prodex/2024"
- },
- {
    "Projekt":"System do izolacji rur dla klienta K-Flex",
    "Nr projektu":"5/Prodex/2024"
  },
  {
    "Projekt":"Rozszerzenie oferty systemów pian blokowych dla klienta K-Flex",
    "Nr projektu":"6/Prodex/2024"
- },
- {
-   "Projekt":"ROKAnol L7EW/90",
-   "Nr projektu":"8/Exol/2024"
  },
  {
    "Projekt":"Nowa wersja Ekopromer REB_02",
@@ -5229,10 +5117,6 @@
    "Nr projektu":"29/Exol/2024"
  },
  {
-   "Projekt":"ROKAnol GP50",
-   "Nr projektu":"30/Exol/2024"
- },
- {
    "Projekt":"ROKAnol LP4547",
    "Nr projektu":"31/Exol/2024"
  },
@@ -5311,10 +5195,6 @@
  {
    "Projekt":"EXOalc 1215",
    "Nr projektu":"45/Exol/2024"
- },
- {
-   "Projekt":"Środków odpieniających dla Superplastyfikatorów od Atlas",
-   "Nr projektu":"46/Exol/2024"
  },
  {
    "Projekt":"ROKAnol EH6",
@@ -5941,12 +5821,32 @@
    "Nr projektu":"7/KR/2025"
  },
  {
+   "Projekt":"Bezcynkowy pakiet dodatków do olejów hydraulicznych",
+   "Nr projektu":"1/KL/2025"
+ },
+ {
+   "Projekt":"Opracowanie zamiennika produktów z serii Antykoks",
+   "Nr projektu":"2/KL/2025"
+ },
+ {
    "Projekt":"iPol H PLUS",
    "Nr projektu":"8/KR/2025"
  },
  {
    "Projekt":"Poliol 100% BIO",
    "Nr projektu":"9/KR/2025"
+ },
+ {
+   "Projekt":"Analiza produktu Emulsogen T",
+   "Nr projektu":"3/KL/2025"
+ },
+ {
+   "Projekt":"Oleje i płyny hydrauliczne HFC, HFDU, HFDR_kontynuacja",
+   "Nr projektu":"4/KL/2025"
+ },
+ {
+   "Projekt":"Formulacje do przekładni przemysłowych - GEAR oils_kontynuacja",
+   "Nr projektu":"5/KL/2025"
  },
  {
    "Projekt":"ROKAcet HR16 dla S+S",
@@ -5961,7 +5861,11 @@
    "Nr projektu":"4/Exol/2025"
  },
  {
-   "Projekt":"Zamiennik Lutensol AO79",
+   "Projekt":"Rokolub WMA ",
+   "Nr projektu":"6/KL/2025"
+ },
+ {
+   "Projekt":"ROKAnol TMP7W ->  Zamiennik Lutensol AO79",
    "Nr projektu":"5/Exol/2025"
  },
  {
@@ -5991,6 +5895,102 @@
  {
    "Projekt":"Rozgałęziony poliol na bazie oleju rycynowego ",
    "Nr projektu":"12/KR/2025"
+ },
+ {
+   "Projekt":"Czyszczenie paneli i mebli drewnianych",
+   "Nr projektu":"10/Exol/2025"
+ },
+ {
+   "Projekt":"Opracowanie i wdrożenie poliolu polieterowego do natrysku otwartokomórkowego",
+   "Nr projektu":"13/KR/2025"
+ },
+ {
+   "Projekt":"Poliol na bazie oleju rzepakowego do aplikacji PUR",
+   "Nr projektu":"14/KR/2025"
+ },
+ {
+   "Projekt":"Nowa technologia poliolu HR wysokofuncyjnego",
+   "Nr projektu":"15/KR/2025"
+ },
+ {
+   "Projekt":"Zamiennik Lutensol TO10",
+   "Nr projektu":"11/Exol/2025"
+ },
+ {
+   "Projekt":"Dobranie kopolimeru blokowego dla Doktor Trawnik",
+   "Nr projektu":"12/Exol/2025"
+ },
+ {
+   "Projekt":"ROKAmina® K30BA MB",
+   "Nr projektu":"13/Exol/2025"
+ },
+ {
+   "Projekt":"ROKAfos 385 low odor",
+   "Nr projektu":"14/Exol/2025"
+ },
+ {
+   "Projekt":"Sodium Cumene Sulfonate",
+   "Nr projektu":"15/Exol/2025"
+ },
+ {
+   "Projekt":"Bio-soft polyester polyol with significant ethylene oxide content",
+   "Nr projektu":"16/KR/2025"
+ },
+ {
+   "Projekt":"VERTEXCO - dobranie zamiennika ",
+   "Nr projektu":"16/Exol/2025"
+ },
+ {
+   "Projekt":"Zamiennik Vinapor GYP2680",
+   "Nr projektu":"17/Exol/2025"
+ },
+ {
+   "Projekt":"Emulgator dla Quimsil",
+   "Nr projektu":"18/Exol/2025"
+ },
+ {
+   "Projekt":"Rokanol L5S",
+   "Nr projektu":"19/Exol/2025"
+ },
+ {
+   "Projekt":"Roflam BR - blendy RDP z fosforanami arylowymi",
+   "Nr projektu":"1/KF/2025"
+ },
+ {
+   "Projekt":"Walloxen GA16250",
+   "Nr projektu":"20/Exol/2025"
+ },
+ {
+   "Projekt":"Stabilność barwy w Rokaminach",
+   "Nr projektu":"21/Exol/2025"
+ },
+ {
+   "Projekt":"Estry fosforowe bez fosfin",
+   "Nr projektu":"22/Exol/2025"
+ },
+ {
+   "Projekt":"Polikol 6000/15",
+   "Nr projektu":"23/Exol/2025"
+ },
+ {
+   "Projekt":"E-PEG 6000/50",
+   "Nr projektu":"24/Exol/2025"
+ },
+ {
+   "Projekt":"Zamiennik Merpoxen RO 150 QL",
+   "Nr projektu":"25/Exol/2025"
+ },
+ {
+   "Projekt":"Zamiennik Merpoxen RO 350/96 QL",
+   "Nr projektu":"26/Exol/2025"
+ },
+ {
+   "Projekt":"Epufloor - składnik A z wypełniaczem i pigmentem",
+   "Nr projektu":"17/KR/2025"
+ },
+ {
+   "Projekt":"Surfaktant do prasy (antyadhezyjny)",
+   "Nr projektu":"27/Exol/2025"
  },
  {
    "Projekt":"Nie dotyczy",
